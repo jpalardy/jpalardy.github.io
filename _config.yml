@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: Jonathan Palardy
+url: http://jpalardy.com
+description: Technotales
+email: jonathan.palardy@gmail.com
+twitter: jpalardy
+github: jpalardy
+gravatar_url: http://www.gravatar.com/avatar/ecfd1bdc5d3aab1e40f25658817712ba
