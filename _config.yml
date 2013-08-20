@@ -5,8 +5,9 @@ rdiscount:
   extensions: [smart]
 
 name: Jonathan Palardy
+blog_name: blog.jpalardy.com
 url: http://blog.jpalardy.com
-description: Technotales
+description: "Jonathan Palardy's blog about technology"
 email: jonathan.palardy@gmail.com
 twitter: jpalardy
 github: jpalardy
