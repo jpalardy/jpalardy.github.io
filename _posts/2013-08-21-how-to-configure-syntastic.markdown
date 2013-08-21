@@ -8,7 +8,7 @@ category: posts
 highlight warnings and errors inline in the current Vim buffer. Here's the
 obligatory Syntastic screenshot:
 
-![Syntastic features](/assets/syntastic/features.png/)
+![Syntastic features](/assets/syntastic/features.png)
 
 My experience with Syntastic was that it worked even though I had done nothing
 to configure it. The default configuration had done its job and, when I saved a
@@ -23,7 +23,7 @@ directory and opened the [c][syntastic_syntax_checkers_c] subdirectory. Inside
 I found a bunch of files, each named after the executable used to check the
 syntax. That made a lot of sense, I could see where this was going.
 
-![Syntastic C checkers](/assets/syntastic/c_checkers.png/)
+![Syntastic C checkers](/assets/syntastic/c_checkers.png)
 
 But which one(s) of these would be used when checking my file? You can find out:
 
@@ -41,7 +41,7 @@ Currently active checker(s): gcc
 
 Think of it as a funnel:
 
-![Syntastic checkers funnel](/assets/syntastic/funnel.png/)
+![Syntastic checkers funnel](/assets/syntastic/funnel.png)
 
 The first one, "ALL the checkers supported by Syntastic" is a moving target. As
 people contribute more checkers, the list will change. You can check the
