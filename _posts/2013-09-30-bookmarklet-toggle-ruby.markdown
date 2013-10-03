@@ -11,7 +11,7 @@ In practice, it looks like this: <ruby>日本語<rt>にほんご</rt></ruby>は<
 
 What's interesting is what the HTML markup looks like:
 
-![HTML ruby markup](/assets/toggleruby/markup.png)
+![HTML ruby markup]({{site.url}}/assets/toggleruby/markup.png)
 
 The `ruby` tag contains a `rt` (ruby text) with the pronunciation. The browser
 has some flexibility over the rendering, but the ruby usually goes on top, in a
@@ -21,7 +21,7 @@ I created a bookmarlet to toggle the ruby text's visibility: <a href="javascript
 
 Toggling the ruby looks like this on a news site:
 
-![HTML ruby markup](/assets/toggleruby/toggleRuby.gif)
+![HTML ruby markup]({{site.url}}/assets/toggleruby/toggleRuby.gif)
 
 Why is this useful? If you're practicing your kanji reading, ruby text is the
 answer. You might want to hide it — until you try to read it for yourself. Then,
