@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Grep -f"
+category: posts
+---
+
+This is the kind of thing you don't need, until you *really* do:
+
+    -f file, --file=file
+        Read one or more newline separated patterns from file.  Empty
+        pattern lines match every input line.  Newlines are not consid-
+        ered part of a pattern.  If file is empty, nothing is matched.
+
+Here's a scenario that recently came up:
+
+      You have a file with millions of entries, one-per-line, in a tab-separated
+      format. One of the fields (and not necessarily the first one) is the "primary key"
+      you are using to identify the field.
+
+      You ran a batch job and the logs are telling you about some transient failures.
+      You grep for the failures and accumulate a bunch of "primary keys". You will need
+      to rerun the job for those entries.
+
+Essentially, you need to "grep" the original file for the keys that failed. The
+problem is that you might have thousands of keys and millions of entries.
+Depending on the exact size of the data you are dealing with and the amount of
+time available, you might be able to "brute force" the solution. It might look
+like this <sup>1</sup>:
+
+{% highlight bash %}
+    % cat file_with_keys | while read key; do grep $key large_file.tsv; done > subset.tsv
+{% endhighlight %}
+
+This spawns 1 grep per key -- but it's a one-liner. Compare with the following,
+which accomplishes the same thing with 1 process:
+
+{% highlight bash %}
+    % grep -f file_with_keys large_file.tsv > subset.tsv
+{% endhighlight %}
+
+This is much faster.
+
+Did I miss anything? How would you tackle this?
+
+---
+
+1. Your grep might need qualifiers (-w, for example), but this will depend on your data.
+
