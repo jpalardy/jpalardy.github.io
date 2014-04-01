@@ -1,14 +1,14 @@
 markdown: rdiscount
 pygments: true
-permalink: /posts/:title
+permalink: "/posts/:title"
 rdiscount:
   extensions: [smart]
 
-name: Jonathan Palardy
-blog_name: blog.jpalardy.com
-url: http://blog.jpalardy.com
+name: "Jonathan Palardy"
+blog_name: "blog.jpalardy.com"
+url: "http://blog.jpalardy.com"
 description: "Jonathan Palardy's blog about technology"
-email: jonathan.palardy@gmail.com
-twitter: jpalardy
-github: jpalardy
-gravatar_url: http://www.gravatar.com/avatar/ecfd1bdc5d3aab1e40f25658817712ba
+email: "jonathan.palardy@gmail.com"
+twitter: "jpalardy"
+github: "jpalardy"
+gravatar_url: "http://www.gravatar.com/avatar/ecfd1bdc5d3aab1e40f25658817712ba"
