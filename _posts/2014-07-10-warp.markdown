@@ -1,0 +1,36 @@
+---
+layout: post
+title: Warp
+category: posts
+---
+
+I write software for myself. I don't try to think too hard what's useful to
+other people; I just write a lot of things and see what I like. Some
+experiments are useless, they seemed like a good idea at the time, but I don't
+end up using them.
+
+That's fine: [let a thousand flowers bloom](http://www.phrases.org.uk/meanings/226950.html).
+
+One of those experiment was [vim slime](https://github.com/jpalardy/vim-slime).
+At the time, it was a quick hack, something neat ... I almost didn't bother, it
+seemed "obvious". It ended up being the most popular [blog post](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)
+I ever wrote, and probably the piece of software I wrote that's used by the most people.
+
+When I wrote [warp](https://github.com/jpalardy/warp), I felt the same way that
+I did about vim slime: quick hack, fun, but no big deal. I just had too many
+hosts I could SSH into and no easy way to manage them; I wanted to pick from a
+list, something that I could put in git and edit by hand.
+
+It seemed so "obvious", nothing worth showing off, and I didn't advertise it.
+People just saw me using it and starting to ask "what is that?" and "can I
+install that?".
+
+![warp demo]({{site.url}}/assets/warp/warp.gif)
+
+Warp is just one of the many "vim pickers" I made; I have others, of
+varying usefulness. They are [part](https://github.com/jpalardy/dotfiles/blob/master/bash/commands/listers.bash)
+of vim dotfiles and involve buying into a lot of my customizations. So, I made an effort
+and picked the warp "logic" apart, cleaned it up a bit, and I am now sharing it with the world.
+
+The details are in the [repo](https://github.com/jpalardy/warp).
+
