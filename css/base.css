@@ -2,6 +2,7 @@
 body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   margin: 0;
+  color: #333;
   -webkit-font-smoothing: antialiased; }
 
 a {
@@ -24,31 +25,29 @@ a {
     border-radius: 5px; }
   .sidebar .name {
     text-transform: uppercase;
-    margin: 10px 0 20px 0; }
+    margin: -5px 0 20px 0; }
     .sidebar .name #fname {
       padding-left: 1px;
       font-size: 10px;
       letter-spacing: 4px;
-      color: black; }
+      color: #333; }
     .sidebar .name #lname {
       font-size: 16px;
       font-weight: bold;
       letter-spacing: 1px;
-      color: black; }
+      color: #333; }
   .sidebar .meta a {
-    margin-left: 0px;
-    color: black; }
-    .sidebar .meta a:hover {
-      color: #036c9c; }
-  .sidebar .meta {
-    margin-left: 4px; }
+    opacity: 0.7; }
+  .sidebar tr:hover {
+    opacity: 0.7;
+  }
   .sidebar .meta .icon {
-    margin-right: 1px; }
+    margin-right: 0; }
   .sidebar .sections {
     margin: 15px 0 0 0; }
     .sidebar .sections a {
       padding: 3px 0;
-      color: black;
+      color: #333;
       font-weight: bold;
       font-size: 12px;
       display: block; }
@@ -59,11 +58,22 @@ a {
       padding: 0; }
     .sidebar .sections li {
       list-style: none;
-      margin-bottom: 7px; }
+      margin-bottom: 0; }
+    .sidebar .meta {
+      font-size: 14px;
+      font-weight: bold;
+      list-style: none; }
+    .sidebar .meta table {
+      margin-left: -1px;
+      border-collapse: collapse;
+    }
+    .sidebar .meta table td {
+      padding: 0 3px 0 0;
+    }
 
 .content {
-  max-width: 650px;
-  margin-left: 125px;
+  max-width: 625px;
+  margin-left: 150px;
   margin-right: 20px;
   margin-bottom: 50px; }
   .content h1 {
@@ -96,7 +106,7 @@ a {
     text-decoration: none; }
   .content h1 {
     font-size: 36px;
-    margin: 18px 0 5px 0; }
+    margin: 8px 0 5px 0; }
   .content h2 {
     font-size: 30px;
     margin-bottom: 15px; }
@@ -108,7 +118,7 @@ a {
   .content p {
     font-size: 16px;
     margin-top: 0;
-    margin-bottom: 1.2em;
+    margin-bottom: 0.5em;
     line-height: 1.7em; }
     .content p code {
       font-size: 12px;
@@ -144,10 +154,12 @@ a {
       color: #111;
       font-style: normal; }
   .content .byline {
+    margin-top: -8px; /* squeeze on header */
     margin-bottom: 17px;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
     padding-left: 0px;
     font-size: 17px;
+    border-bottom: 1px solid #bbb;
     color: #777; }
   .content .aside {
     background-color: #eeeeee;

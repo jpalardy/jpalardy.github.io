@@ -22,7 +22,7 @@
 <body>
   <section class="sidebar">
     <a href="/">
-      <img src="{{ site.gravatar_url }}?s=150" height="75" width="75" class="avatar" alt="jpalardy's avatar" />
+      <img src="{{ site.gravatar_url }}?s=160" height="80" width="80" class="avatar" alt="jpalardy's avatar" />
     </a>
 
     <section class="name">
@@ -33,10 +33,24 @@
     </section>
 
     <section class="meta">
-      <a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="icon icon-github"></i></a>
-      <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><i class="icon icon-twitter"></i></a>
-      <a href="mailto:{{ site.email }}" target="_blank"><i class="icon icon-envelope"></i></a>
-      <a href="/atom.xml"><i class="icon icon-rss"></i></a>
+      <table>
+        <tr>
+          <td><a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="icon icon-github"></i></a></td>
+          <td><a href="https://github.com/{{ site.github_username }}" target="_blank"> GitHub</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><i class="icon icon-twitter"></i></a></td>
+          <td><a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a></td>
+        </tr>
+        <tr>
+          <td><a href="mailto:{{ site.email }}" target="_blank"><i class="icon icon-envelope"></i></a></td>
+          <td><a href="mailto:{{ site.email }}" target="_blank">Email</a></td>
+        </tr>
+        <tr>
+          <td><a href="/atom.xml"><i class="icon icon-rss"></i></a></td>
+          <td><a href="/atom.xml">Blog</a></td>
+        </tr>
+      </table>
     </section>
 
     <section class="sections">
