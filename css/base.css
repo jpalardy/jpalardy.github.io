@@ -5,7 +5,7 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 a {
-  color: #227ce8; }
+  color: #036c9c; }
 
 .sidebar {
   position: fixed;
@@ -31,7 +31,7 @@ a {
       letter-spacing: 4px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 17px;
+      font-size: 16px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
@@ -39,7 +39,7 @@ a {
     margin-left: 0px;
     color: black; }
     .sidebar .meta a:hover {
-      color: #227ce8; }
+      color: #036c9c; }
   .sidebar .meta {
     margin-left: 4px; }
   .sidebar .meta .icon {
@@ -53,7 +53,7 @@ a {
       font-size: 12px;
       display: block; }
       .sidebar .sections a:hover {
-        color: #227ce8; }
+        color: #036c9c; }
     .sidebar .sections ul {
       margin: 0;
       padding: 0; }
