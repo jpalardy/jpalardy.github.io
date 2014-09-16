@@ -42,7 +42,7 @@ $ grep_file() { grep "$@" file }
 You're stuck on the next line, and bash is waiting for input ... as if you had
 forgotten to close a string or a parenthesis.
 
-The solution is explained [this page](http://tldp.org/LDP/abs/html/functions.html):
+The solution is explained on [this page](http://tldp.org/LDP/abs/html/functions.html):
 
 [![one line bash function](/assets/one-liner-bash-functions/semicolon.png)](http://tldp.org/LDP/abs/html/functions.html)
 
