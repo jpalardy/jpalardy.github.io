@@ -5,7 +5,7 @@ rdiscount:
   extensions: [smart]
 
 name: "Jonathan Palardy"
-blog_name: "blog.jpalardy.com"
+blog_name: "Jonathan Palardy's Blog"
 url: "http://blog.jpalardy.com"
 description: "Jonathan Palardy's blog about technology"
 email: "jonathan.palardy@gmail.com"
