@@ -118,8 +118,8 @@ a {
   .content p {
     font-size: 16px;
     margin-top: 0;
-    margin-bottom: 0.5em;
-    line-height: 1.7em; }
+    margin-bottom: 1.5em;
+    line-height: 1.2em; }
     .content p code {
       font-size: 12px;
       background-color: #eeeeee;
@@ -207,6 +207,8 @@ a {
       padding-left: 60px; }
     .content .meta iframe {
       padding-left: 5px; }
+    .content .meta h3 {
+      border-top: 1px solid #bbb; }
   .content .talk-design .color div {
     float: left;
     margin-right: 10px;
