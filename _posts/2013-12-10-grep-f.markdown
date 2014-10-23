@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grep -f"
+title: "grep -f"
 category: posts
 ---
 
