@@ -1,0 +1,45 @@
+---
+layout: post
+title: type -a
+category: posts
+---
+
+I [mentioned previously](http://blog.jpalardy.com/posts/which-a-versus-whereis/)
+that `which -a` is what you want to use to find what command you're about to run.
+
+I was wrong.
+
+I found accidentally, probably while reading something on stackoverflow, that
+`type -a` is a better-in-every-way replacement for `which -a`. Compare:
+
+{% highlight bash %}
+    % which -a ls
+    /Users/jpalardy/local/bin/ls
+    /bin/ls
+
+    % type -a ls
+    ls is aliased to 'ls --color=auto'
+    ls is /Users/jpalardy/local/bin/ls
+    ls is /bin/ls
+{% endhighlight %}
+
+Not only does `type -a` give me all the same information, it also tells me
+about aliases and functions. Consider what happens for functions which do
+not have corresponding executables in the PATH:
+
+{% highlight bash %}
+    % which -a gril
+                                    #   -- no output --
+
+    % type -a gril
+    gril is a function
+    gril ()
+    {
+      grep -il "$@"
+    }
+{% endhighlight %}
+
+It tells me it's a function _and_ it shows me its definition. This has decreased,
+subtantially, the amount of grepping my dotfiles trying to remember how certain
+functions work.
+
