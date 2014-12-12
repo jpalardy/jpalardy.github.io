@@ -25,8 +25,8 @@ typewriter.
 ![using the history]({{site.url}}/assets/last-word/history.gif)
 
 I'm using `!$` (the last word from the previous command) instead of typing it
-out. Better still, I'm using 'magic-space' to do history expansion and check
-what I'm going to get.
+out. Better still, I'm using 'magic-space' to do automatic history expansion
+and check what I'm going to get.
 
 More on "magic-space" on [this page](http://www.ukuug.org/events/linux2003/papers/bash_tips/),
 scroll to slide 15.
