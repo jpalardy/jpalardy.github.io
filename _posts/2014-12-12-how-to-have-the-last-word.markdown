@@ -39,7 +39,7 @@ How did the directory's name just appear? There *is* a keyboard shortcut for tha
 and it's *already* configured on your terminal: just type `ESC` followed by the
 period (`ESC-.`).
 
-(It also works as `META-`. or `ALT-.`)
+(It also works as `META-.` or `ALT-.`)
 
 If you keep pressing `ESC-.`, it will traverse the history backward and insert
 the last word from previous commands.
