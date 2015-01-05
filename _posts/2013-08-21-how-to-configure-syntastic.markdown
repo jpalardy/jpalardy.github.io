@@ -81,7 +81,7 @@ can be found in the [documentation][syntastic_documentation].
 [syntastic]: https://github.com/scrooloose/syntastic
 [syntastic_syntax_checkers]: https://github.com/scrooloose/syntastic/tree/master/syntax_checkers
 [syntastic_syntax_checkers_c]: https://github.com/scrooloose/syntastic/tree/master/syntax_checkers/c
-[syntastic_syntax_checkers_wiki]: https://github.com/scrooloose/syntastic/wiki/Syntaxcheckers
+[syntastic_syntax_checkers_wiki]: https://github.com/scrooloose/syntastic/wiki/Syntax-Checkers
 [syntastic_whitelist]: https://github.com/scrooloose/syntastic/blob/d82ee05a80c023f1d531569e56595f5f9cb0fde2/plugin/syntastic/registry.vim#L6
 [syntastic_documentation]: https://github.com/scrooloose/syntastic/blob/master/doc/syntastic.txt
 
