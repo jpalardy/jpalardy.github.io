@@ -1,0 +1,52 @@
+
+### Statistics: How Many Would You Check?
+
+Imagine this situation:
+
+> You just performed a batch update on millions of users in your database.
+> There were no error messages and you are confident that everything went well.
+> But it wouldn't hurt to check…
+>
+> How many users would you have to check to feel confident that
+> everything worked for at _least_ 95% of users?
+
+### Analysis
+
+Libraries needed:
+
+```{r}
+library(binom)
+library(ggplot2)
+```
+
+The lower bound is generated for 1..100 checks using Wilson method:
+
+```{r}
+n100.wilson = sapply(1:100, function (i) { binom.wilson(i, i)$lower })
+d.wilson = data.frame(checks=0, low.conf=0) # fixing 0 --> 0%
+d.wilson = rbind(d.wilson, data.frame(checks=seq_along(n100.wilson), low.conf=n100.wilson))
+head(d.wilson, 11)
+```
+
+Those values are plotted:
+
+```{r conf_vs_checks, fig.show='hide'}
+ggplot(d.wilson, aes(checks, low.conf)) +
+  geom_line(alpha=0.3) +
+  geom_point(size=1.3) +
+  geom_hline(yintercept=0.95, alpha=0.3, color="red") +
+  scale_x_continuous("number of checks", breaks=seq(0, 100, 10), minor_breaks=NULL) +
+  scale_y_continuous("success % (lower bound)", breaks=seq(0, 1, 0.1), 
+    labels=seq(0, 100, 10), minor_breaks=NULL) +
+  coord_cartesian(ylim=c(0, 1))
+```
+
+It takes 73 checks to reach a lower bound of 95% of "true" success (the red line).
+
+```{r ref.label='conf_vs_checks', echo=FALSE}
+```
+
+It's worth mentioning that if you're going to check 73 users, you would need to
+pick those at random. Otherwise, it's easy to imagine how the beginning of the
+batch went well and everything went to hell later on.
+
