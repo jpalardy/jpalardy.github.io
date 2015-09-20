@@ -4,6 +4,8 @@ title: "Statistics: How Many Would You Check?"
 category: posts
 ---
 
+[Russion Translation](http://softdroid.net/statistika-mnogo-li-vy-proveryaete), thanks to Vlad.
+
 Imagine this situation:
 
 > You just performed a batch update on millions of users in your database.
