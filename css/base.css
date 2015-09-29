@@ -136,8 +136,11 @@ a {
     background-image: url("/images/hr.png");
     background-repeat: repeat-x;
     margin: 2em 3em; }
+  .content ul {
+    margin-top: -10px;
+  }
   .content li {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     line-height: 1.4em; }
   .content blockquote {
     font-style: italic;
