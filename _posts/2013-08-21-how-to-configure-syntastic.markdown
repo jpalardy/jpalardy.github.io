@@ -43,12 +43,12 @@ Think of it as a funnel:
 
 ![Syntastic checkers funnel]({{site.url}}/assets/syntastic/funnel.png)
 
-The first one, "ALL the checkers supported by Syntastic" is a moving target. As
-people contribute more checkers, the list will change. You can check the
+The first one, "ALL the checkers supported by Syntastic" changes over time; as
+people contribute more checkers, the list will grow. You can check the
 [syntax checkers][syntastic_syntax_checkers] subdirectories on Github or the
 [wiki][syntastic_syntax_checkers_wiki].
 
-The second one, "the checkers installed on your computer", is self explaining :-)
+The second one, "the checkers installed on your computer", is self-explanatory :-)
 
 The last one, "the checker(s) Syntastic will use", is worth discussing. The
 logic seems to be the first item from the list from `:SyntasticInfo`'s
