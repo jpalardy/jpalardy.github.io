@@ -1,0 +1,40 @@
+
+When doing numerical operations on the headers, the strings get converted
+to zero... To ignore this problem, remove the first line:
+
+    cat netflix.tsv | sed 1d ...
+
+You can also align the output columns with:
+
+    ... | column -t
+
+-------------------------------------------------
+
+* only print the 'Date', 'Volume', 'Open', 'Close' columns, in that order
+
+    cat netflix.tsv | awk '{print $1, $6, $2, $5}'
+
+You have to count the columns, but it's simple otherwise.
+
+
+* only print lines where the stock price increased ('Close' > 'Open')
+
+    cat netflix.tsv | awk '$5 > $2'
+
+A missing action means print.
+
+
+* print the 'Date' column and the stock price difference ('Close' - 'Open')
+
+    cat netflix.tsv | awk '{print $1, $5 - $2}'
+
+Numerical operations on columns are permitted.
+
+
+* print an empty line between each line -- double-space the file
+
+    cat netflix.tsv | awk '{print $0 "\n"}'
+
+There are MANY other ways of doing that... but I didn't want to
+use something I hadn't explained yet.
+
