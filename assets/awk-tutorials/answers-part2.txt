@@ -1,0 +1,63 @@
+
+When doing numerical operations on the headers, the strings get converted
+to zero... To ignore this problem, remove the first line:
+
+    cat netflix.tsv | sed 1d ...
+
+You can also align the output columns with:
+
+    ... | column -t
+
+-------------------------------------------------
+
+* only print lines between February 29, 2016 and March 4, 2016
+
+    cat netflix.tsv | awk '$1 >= "2016-02-29" && $1 <= "2016-03-04"'
+
+That might _possible_ with regular expressions, but probably not fun.
+
+
+* sum the volumes for all days of January 2016
+
+    cat netflix.tsv | awk '/^2016-01/ {sum+=$6} END {print sum}'
+
+That's a recurring pattern: collect data and report.
+
+
+* average the closing price over all days of March 2015
+
+    cat netflix.tsv | awk '/^2015-03/ {sum+=$5; count++} END {print sum/count}'
+
+Same pattern. Try your hand at standard deviation :-)
+
+
+* check that all lines have 7 columns
+
+    cat netflix.tsv | awk 'NF != 7'
+
+The _header_ line has 8 columns and will print. It's good to check these things.
+
+    cat netflix.tsv | awk '{print NF}' | sort -n | uniq -c
+
+This will check how many columns there are and report each count.
+
+
+* only print every other line (say, even lines)
+
+    cat netflix.tsv | awk 'NR % 2 == 0'
+
+NR is often used for things like this.
+
+
+* remove empty lines in a file
+
+    cat netflix.tsv | awk '/^$/ {next}; {print}'
+
+That's probably the most explicit way of accomplishing that. Do lines with
+blank spaces count as empty?
+
+    cat netflix.tsv | awk 'NF'
+
+Empty lines don't have fields ... making NF == 0 ... which is false.
+Conversely, any non-blank line will be true and print.
+
