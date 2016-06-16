@@ -1,0 +1,53 @@
+
+Since the post explained about multi-line AWK in bash scripts, I took some
+liberties with the formatting.
+
+-------------------------------------------------
+
+* calculate the average closing price, grouped per year
+
+    cat netflix.csv | awk -F'[,-]' '
+    {count[$1]++; sum[$1]+=$8}
+    END {
+      for(year in sum) {
+        print year, int(sum[year]/count[year]/1000) "k"    # /1000 to avoid scientific notation
+      }
+    }
+    ' | sort -n | sed 1d
+
+By keeping the numerator and denominator of the average separate, we can calculate the average at the end.
+
+
+* calculate the max closing price, grouped per month
+
+    cat netflix.csv | awk -F'[,-]' '
+    {month = $1 "-" $2}
+    $7 > max[month] {max[month] = $7}
+    END {
+      for(month in max) {
+        print month, max[month]
+      }
+    }
+    ' | sort -n | sed 1d
+
+If we are interested in each month of each year (as opposed to "all Aprils"), we can
+concatenate the year ($1) and the month ($2) as a new variable called month.
+
+If the closing price ($7) is greater than the current max, we have a new max.
+
+
+* calculate the median volume, in 2015
+
+    cat netflix.csv | awk -F'[,-]' '
+    $1 == 2015 {volume[i++] = $8}
+    END {
+      asort(volume)
+      print volume[i/2]
+    }
+    '
+
+We keep pushing values in volume, by incrementing the variable i. asort(...) does numeric sorting of the array.
+The median, for all practical purposes, is found in the middle, at i/2.
+
+You can find Q1 and Q3 at i/4 and i*3/4, respectively.
+
