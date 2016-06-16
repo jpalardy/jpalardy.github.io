@@ -184,7 +184,7 @@ There are many possibilities:
 
 * reading a bunch of [examples](https://www.google.ca/search?q=awk+examples)
 * finding a [tutorial](https://www.google.ca/search?q=awk+tutorial)
-* to reading the [manual](https://www.gnu.org/software/gawk/manual/gawk.html)
+* reading the [manual](https://www.gnu.org/software/gawk/manual/gawk.html)
 * reading the [book](http://www.amazon.com/dp/0596000707/?tag=bookpiles02-20)
 
 In my [next post](/posts/awk-tutorial-part-1), I'll explain everything you need to get you started with AWK.
