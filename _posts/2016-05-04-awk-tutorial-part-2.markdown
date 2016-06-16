@@ -242,5 +242,5 @@ Answers are [here]({{site.url}}/assets/awk-tutorials/answers-part2.txt).
 
 ## What's next?
 
-Part 3 is coming.
+[Part 3](http://blog.jpalardy.com/posts/awk-tutorial-part-3/)
 
