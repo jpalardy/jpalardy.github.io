@@ -7,10 +7,10 @@ liberties with the formatting.
 * calculate the average closing price, grouped per year
 
     cat netflix.csv | awk -F'[,-]' '
-    {count[$1]++; sum[$1]+=$8}
+    {count[$1]++; sum[$1]+=$7}
     END {
       for(year in sum) {
-        print year, int(sum[year]/count[year]/1000) "k"    # /1000 to avoid scientific notation
+        print year, sum[year]/count[year]
       }
     }
     ' | sort -n | sed 1d
