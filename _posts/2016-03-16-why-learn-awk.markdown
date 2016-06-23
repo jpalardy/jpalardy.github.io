@@ -94,7 +94,8 @@ These things are _needed_ but they aren't what your script is about. AWK takes
 care of all that, your code is implicitly surrounded by a loop that's going to
 iterate over every input line.
 
-DISCLAIMER: all code simplified and for illustrative purposes only.
+DISCLAIMER: This isn't AWK, it's JavaScript. It might as well be pseudocode.
+All code simplified and for illustrative purposes only.
 
 {% highlight javascript %}
 // open each file, assign content to "lines"
