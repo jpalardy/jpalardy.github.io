@@ -210,7 +210,7 @@ Answers are [here]({{site.url}}/assets/awk-tutorials/answers-part3.txt).
 
 ## What's next?
 
-As a conclusion, I'll post my best AWK tricks.
+As a conclusion: [my best AWK tricks](http://blog.jpalardy.com/posts/my-best-awk-tricks/).
 
 At this point, I hope they won't be a list of opaque incantations.  
 You will be able to see _what_ and _how_ it's done.
