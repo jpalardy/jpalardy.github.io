@@ -9,7 +9,7 @@ deserve to be acknowledged. I broke down my recommendations by categories:
 [technical](#technical), [non-fiction](#non-fiction) and [fiction](#fiction).
 There is no particular order.
 
-<a name="technical"/></a>
+-------------------------------------------------
 
 ## Technical
 
@@ -33,9 +33,8 @@ The [Statistical Learning MOOC](https://lagunita.stanford.edu/courses/Humanities
 * no wikipedia link...
 * [amazon](http://www.amazon.com/dp/1461471370)
 
-<br style="clear: both" />
 
-<a name="non-fiction"/></a>
+-------------------------------------------------
 
 ## Non-Fiction
 
@@ -59,7 +58,7 @@ Does our generation need a [BIG project](https://www.youtube.com/watch?v=g25G1M4
 * [wikipedia](https://en.wikipedia.org/wiki/The_Case_for_Mars)
 * [amazon](http://www.amazon.com/dp/145160811X)
 
-<br style="clear: both" />
+
 ### The Checklist Manifesto
 
 <img style="float: right" src="{{site.url}}/assets/best-books-2015/0312430000.jpg" alt="The Checklist Manifesto" />
@@ -75,7 +74,7 @@ stories, and tries to convince that "we don't need a checklist" is a
 * [wikipedia](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)
 * [amazon](http://www.amazon.com/dp/0312430000)
 
-<br style="clear: both" />
+
 ### Superintelligence
 
 <img style="float: right" src="{{site.url}}/assets/best-books-2015/0199678111.jpg" alt="Superintelligence" />
@@ -105,7 +104,7 @@ I recommend the book, *especially* if you disagree with the premise.
 * [wikipedia](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 * [amazon](http://www.amazon.com/dp/0199678111)
 
-<br style="clear: both" />
+
 ### Economix
 
 <img style="float: right" src="{{site.url}}/assets/best-books-2015/0810988399.jpg" alt="Economix" />
@@ -126,9 +125,7 @@ its best.
 * no wikipedia link...
 * [amazon](http://www.amazon.com/dp/0810988399)
 
-<br style="clear: both" />
-
-<a name="fiction"/></a>
+-------------------------------------------------
 
 ## Fiction
 
@@ -147,7 +144,7 @@ things were going to work out.
 * [wikipedia](https://en.wikipedia.org/wiki/Revelation_Space)
 * [amazon](http://www.amazon.com/dp/0441009425)
 
-<br style="clear: both" />
+
 ### The Three-Body Problem
 
 <img style="float: right" src="{{site.url}}/assets/best-books-2015/0765377063.jpg" alt="The Three-Body Problem" />
@@ -161,7 +158,7 @@ unusual, and that I can't wait for the third book to be translated to English.
 * [wikipedia](https://en.wikipedia.org/wiki/The_Three-Body_Problem)
 * [amazon](http://www.amazon.com/dp/0765377063)
 
-<br style="clear: both" />
+
 ### Aurora
 
 <img style="float: right" src="{{site.url}}/assets/best-books-2015/0316098108.jpg" alt="Aurora" />
@@ -186,8 +183,6 @@ and ... mournful. Nostalgia is why I keep coming back.
 
 * [wikipedia](https://en.wikipedia.org/wiki/Aurora_(novel\))
 * [amazon](http://www.amazon.com/dp/0316098108)
-
-<br style="clear: both" />
 
 
 ## Closing Thoughts
