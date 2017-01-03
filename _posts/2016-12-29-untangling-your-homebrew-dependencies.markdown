@@ -156,22 +156,12 @@ both part of GraphViz. The [man page](https://linux.die.net/man/1/fdp) says:
 
 > ... fdp draws undirected graphs using a ''spring'' model. It relies on a force-directed approach in the spirit of Fruchterman and Reingold ...
 
-I would run:
+I would also recommend the new `--highlight-leaves` option to color (in gray) packages that can be uninstalled:
 
 {% highlight bash %}
-$ brew graph --installed | fdp -Tpng -ograph.png
+$ brew graph --installed --highlight-leaves | fdp -Tpng -ograph.png
 $ open graph.png
 {% endhighlight %}
-
-Which looks like:
-
-![brew deps as graph]({{site.url}}/assets/untangling-homebrew-dependencies/brew-deps.png)
-
-
-## Modified brew-graph
-
-I [forked](https://github.com/jpalardy/brew-graph) brew-graph to highlight leaf
-nodes. Anything in gray is a leaf and can be uninstalled:
 
 ![brew deps as graph w/ highlights]({{site.url}}/assets/untangling-homebrew-dependencies/brew-deps-hl.png)
 
