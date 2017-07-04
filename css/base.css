@@ -8,6 +8,11 @@ body {
 a {
   color: #036c9c; }
 
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
 .sidebar {
   position: fixed;
   left: 15px;
