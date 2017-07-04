@@ -56,4 +56,13 @@ $ [data is generated] | awk '/something/ {next} 1'
 - it's longer than `grep -v`
 - "what's does that even do?!" -- it requires a deeper understanding of awk
 
+**UPDATE:**
+
+Many people have pointed out that "grep -v" can be done more consicely with:
+
+{% highlight bash %}
+$ [data is generated] | awk '! /something/'
+{% endhighlight %}
+
+which isn't too bad at all.
 
