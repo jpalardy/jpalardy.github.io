@@ -168,7 +168,7 @@ A comma between print values will insert a space in the output. AWK also has
 `printf` which unleashes infinite [formatting power](http://linux.die.net/man/3/printf):
 
 {% highlight txt %}
-$ cat netflix.tsv | awk '{printf "%s %15s %.1f\n", $1, $6, $5}' | sed 1d
+$ cat netflix.tsv | awk 'NR > 1 {printf "%s %15s %.1f\n", $1, $6, $5}'
 2016-03-24        10646900 98.4
 2016-03-23         8292300 99.6
 2016-03-22         9039500 99.8
