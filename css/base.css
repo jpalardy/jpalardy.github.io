@@ -227,3 +227,9 @@ pre {
     font-weight: bold; }
   .content .talk-design .color .white {
     color: #fff; }
+
+  .book-cover {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+  }

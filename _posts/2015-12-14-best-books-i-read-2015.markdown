@@ -15,7 +15,7 @@ There is no particular order.
 
 ### An Introduction to Statistical Learning
 
-<img style="float: right" src="{{site.url}}/assets/best-books-2015/1461471370.jpg" alt="An Introduction to Statistical Learning" />
+<img class="book-cover" src="{{site.url}}/assets/best-books-2015/1461471370.jpg" alt="An Introduction to Statistical Learning" />
 
 This book wasn't planned. Last January, I heard about the [MOOC](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about),
 and saw that people were excited about it. I started the class, bought the
@@ -40,7 +40,7 @@ The [Statistical Learning MOOC](https://lagunita.stanford.edu/courses/Humanities
 
 ### The Case For Mars
 
-<img style="float: right" src="{{site.url}}/assets/best-books-2015/145160811X.jpg" alt="The Case For Mars" />
+<img class="book-cover" src="{{site.url}}/assets/best-books-2015/145160811X.jpg" alt="The Case For Mars" />
 
 Many other books on Mars, both fiction and non-fiction, refer to this book
 first published in 1996. This book will sell you why we must go to Mars, how
@@ -61,7 +61,7 @@ Does our generation need a [BIG project](https://www.youtube.com/watch?v=g25G1M4
 
 ### The Checklist Manifesto
 
-<img style="float: right" src="{{site.url}}/assets/best-books-2015/0312430000.jpg" alt="The Checklist Manifesto" />
+<img class="book-cover" src="{{site.url}}/assets/best-books-2015/0312430000.jpg" alt="The Checklist Manifesto" />
 
 From airline pilots to surgeons, checklists save lives. It's a short book that
 could have been shorter, but still an enjoyable read.
@@ -77,7 +77,7 @@ stories, and tries to convince that "we don't need a checklist" is a
 
 ### Superintelligence
 
-<img style="float: right" src="{{site.url}}/assets/best-books-2015/0199678111.jpg" alt="Superintelligence" />
+<img class="book-cover" src="{{site.url}}/assets/best-books-2015/0199678111.jpg" alt="Superintelligence" />
 
 This was a recommendation from [CGP Grey](http://www.hellointernet.fm/podcast/52) and I started out as a
 skeptic. This sounds like Skynet, and I've already watched that movie. (and others worse)
@@ -107,7 +107,7 @@ I recommend the book, *especially* if you disagree with the premise.
 
 ### Economix
 
-<img style="float: right" src="{{site.url}}/assets/best-books-2015/0810988399.jpg" alt="Economix" />
+<img class="book-cover" src="{{site.url}}/assets/best-books-2015/0810988399.jpg" alt="Economix" />
 
 Economic ideas often hide behind jargon and formulas -- it doesn't have to be
 like that. Here is a comic book that covers the history of economics and
@@ -131,7 +131,7 @@ its best.
 
 ### Revelation Space
 
-<img style="float: right" src="{{site.url}}/assets/best-books-2015/0441009425.jpg" alt="Revelation Space" />
+<img class="book-cover" src="{{site.url}}/assets/best-books-2015/0441009425.jpg" alt="Revelation Space" />
 
 Humans have spread to nearby stars, all _without_ [FTL](https://en.wikipedia.org/wiki/Faster-than-light) drives, and there are
 many mysteries to explore in this dark [space opera](https://en.wikipedia.org/wiki/Space_opera).
@@ -147,7 +147,7 @@ things were going to work out.
 
 ### The Three-Body Problem
 
-<img style="float: right" src="{{site.url}}/assets/best-books-2015/0765377063.jpg" alt="The Three-Body Problem" />
+<img class="book-cover" src="{{site.url}}/assets/best-books-2015/0765377063.jpg" alt="The Three-Body Problem" />
 
 I kept hearing about Liu Cixin, [China's Arthur C. Clarke](http://www.newyorker.com/books/page-turner/chinas-arthur-c-clarke). It doesn't hurt that the book won the 2015 Hugo award. Science-fiction is often inspired by American culture and descriptions of the book hinted at "something different".
 
@@ -161,7 +161,7 @@ unusual, and that I can't wait for the third book to be translated to English.
 
 ### Aurora
 
-<img style="float: right" src="{{site.url}}/assets/best-books-2015/0316098108.jpg" alt="Aurora" />
+<img class="book-cover" src="{{site.url}}/assets/best-books-2015/0316098108.jpg" alt="Aurora" />
 
 This book comes from Kim Stanley Robinson, the author of the excellent
 [Mars Trilogy](https://en.wikipedia.org/wiki/Mars_trilogy). It also falls under
