@@ -5,6 +5,7 @@ category: posts
 ---
 
 [Russion Translation](http://softdroid.net/statistika-mnogo-li-vy-proveryaete), thanks to Vlad.
+[Ukrainian Translation](http://www.opensourceinitiative.net/edu/jpalardy/), thanks to Sandi.
 
 Imagine this situation:
 
