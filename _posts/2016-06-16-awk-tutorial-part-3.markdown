@@ -4,9 +4,9 @@ title: Awk Tutorial, part 3
 category: posts
 ---
 
-I [already mentioned](http://blog.jpalardy.com/posts/why-learn-awk/) why you should learn AWK.  
-In [part 1](http://blog.jpalardy.com/posts/awk-tutorial-part-1/), we laid a _solid_ foundation.  
-In [part 2](http://blog.jpalardy.com/posts/awk-tutorial-part-2/), we covered _most_ of what you would ever need.  
+I [already mentioned](https://blog.jpalardy.com/posts/why-learn-awk/) why you should learn AWK.  
+In [part 1](https://blog.jpalardy.com/posts/awk-tutorial-part-1/), we laid a _solid_ foundation.  
+In [part 2](https://blog.jpalardy.com/posts/awk-tutorial-part-2/), we covered _most_ of what you would ever need.  
 Let's cover what's left.
 
 
@@ -136,7 +136,7 @@ Date 0
 
 * split columns on commas or hyphens
 * accumulate volume ($8) in a dictionary, using the year ($1) as key
-* volume is a variable that gets created as a dictionary, because we use it as a dictionary -- this was discussed in [part 2](http://blog.jpalardy.com/posts/awk-tutorial-part-2/)
+* volume is a variable that gets created as a dictionary, because we use it as a dictionary -- this was discussed in [part 2](https://blog.jpalardy.com/posts/awk-tutorial-part-2/)
 * at the END, print each year and volume sum
 
 When working with array, this pattern of "accumulation" and "reporting" at the
@@ -210,7 +210,7 @@ Answers are [here]({{site.url}}/assets/awk-tutorials/answers-part3.txt).
 
 ## What's next?
 
-As a conclusion: [my best AWK tricks](http://blog.jpalardy.com/posts/my-best-awk-tricks/).
+As a conclusion: [my best AWK tricks](https://blog.jpalardy.com/posts/my-best-awk-tricks/).
 
 At this point, I hope they won't be a list of opaque incantations.  
 You will be able to see _what_ and _how_ it's done.

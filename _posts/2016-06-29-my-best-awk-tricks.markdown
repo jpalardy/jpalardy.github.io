@@ -5,8 +5,8 @@ category: posts
 ---
 
 This is a wrap-up of my AWK tutorial series.  
-You can start with [why learn awk](http://blog.jpalardy.com/posts/why-learn-awk/).  
-Or you can just straight to [part 1](http://blog.jpalardy.com/posts/awk-tutorial-part-1/) of the tutorial.
+You can start with [why learn awk](https://blog.jpalardy.com/posts/why-learn-awk/).  
+Or you can just straight to [part 1](https://blog.jpalardy.com/posts/awk-tutorial-part-1/) of the tutorial.
 
 If you've read the tutorial, the amount of _magic_ should be down to a minimum.
 
@@ -27,7 +27,7 @@ I might use `$0` or `$1`, but you'll have to fix those. That's what I do after I
 
 ## uniq without sort
 
-I posted about this [before](http://blog.jpalardy.com/posts/unsorted-uniq/), but it's still my favorite:
+I posted about this [before](https://blog.jpalardy.com/posts/unsorted-uniq/), but it's still my favorite:
 
 {% highlight bash %}
 $ awk '!seen[$0]++'

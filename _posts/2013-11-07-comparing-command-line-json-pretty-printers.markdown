@@ -233,6 +233,6 @@ Here's what I used to recommend:
 * but use jsontool if you care about key ordering -- for example, if you're reformatting package.json
 
 However, now that I have compiled this grid, I would use jsonlint instead of jsontool. I always
-install jsonlint anyway, because that's what [syntastic](http://blog.jpalardy.com/posts/how-to-configure-syntastic/)
+install jsonlint anyway, because that's what [syntastic](https://blog.jpalardy.com/posts/how-to-configure-syntastic/)
 integrates with -- I just had not realized that the output of both jsonlint and jsontool is equivalent.
 

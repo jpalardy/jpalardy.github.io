@@ -14,7 +14,7 @@ what insights I can extract out of it. The [data]({{site.url}}/assets/8-years-re
 consists of the date I finished reading a book. There's one date per
 book, some dates have more than one book.
 
-I've tried a bunch of [summary statistics](http://blog.jpalardy.com/posts/reject-summary-statistics/),
+I've tried a bunch of [summary statistics](https://blog.jpalardy.com/posts/reject-summary-statistics/),
 various counts and averages, but it wasn't very enlightening. I
 wondered what it would look like on different plots.
 

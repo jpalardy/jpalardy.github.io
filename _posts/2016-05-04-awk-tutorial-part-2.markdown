@@ -4,8 +4,8 @@ title: Awk Tutorial, part 2
 category: posts
 ---
 
-I [already mentioned](http://blog.jpalardy.com/posts/why-learn-awk/) why you should learn AWK.  
-In [part 1](http://blog.jpalardy.com/posts/awk-tutorial-part-1/), we laid a _solid_ foundation.  
+I [already mentioned](https://blog.jpalardy.com/posts/why-learn-awk/) why you should learn AWK.  
+In [part 1](https://blog.jpalardy.com/posts/awk-tutorial-part-1/), we laid a _solid_ foundation.  
 Let's build on top of that.
 
 _NOTE: certain command outputs have been pretty-printed. Pipe through `column -t` to obtain similar results._
@@ -54,7 +54,7 @@ That's already way better than grep.
 
 ## Comparisons and Logic
 
-I glossed over that in [part 1](http://blog.jpalardy.com/posts/awk-tutorial-part-1/),
+I glossed over that in [part 1](https://blog.jpalardy.com/posts/awk-tutorial-part-1/),
 but AWK has all the usual comparison operators:
 
 {% highlight bash %}
@@ -242,5 +242,5 @@ Answers are [here]({{site.url}}/assets/awk-tutorials/answers-part2.txt).
 
 ## What's next?
 
-[Part 3](http://blog.jpalardy.com/posts/awk-tutorial-part-3/)
+[Part 3](https://blog.jpalardy.com/posts/awk-tutorial-part-3/)
 

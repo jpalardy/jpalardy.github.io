@@ -4,7 +4,7 @@ title: type -a
 category: posts
 ---
 
-I [mentioned previously](http://blog.jpalardy.com/posts/which-a-versus-whereis/)
+I [mentioned previously](https://blog.jpalardy.com/posts/which-a-versus-whereis/)
 that `which -a` is what you want to use to find what command you're about to run.
 
 I was wrong.

@@ -4,7 +4,7 @@ title: Splitting A File Based On Its Content
 category: posts
 ---
 
-My [previous post](http://blog.jpalardy.com/posts/alternative-to-sort-uniq-c/)
+My [previous post](https://blog.jpalardy.com/posts/alternative-to-sort-uniq-c/)
 reminded me of a similar problem: how do you split a file based on its content?
 Counting might just be one of the things you want to do with each subset of the
 file.

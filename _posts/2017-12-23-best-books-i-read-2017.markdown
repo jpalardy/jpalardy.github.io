@@ -9,7 +9,7 @@ deserve to be acknowledged. I broke down my recommendations by categories:
 [technical](#technical), [non-fiction](#non-fiction) and [fiction](#fiction).
 There is no particular order.
 
-I have similar posts for [2015](http://blog.jpalardy.com/posts/best-books-i-read-2015/) and [2016](http://blog.jpalardy.com/posts/best-books-i-read-2016/).
+I have similar posts for [2015](https://blog.jpalardy.com/posts/best-books-i-read-2015/) and [2016](https://blog.jpalardy.com/posts/best-books-i-read-2016/).
 
 -------------------------------------------------
 
@@ -40,7 +40,7 @@ long list of cognitive biases to consider, etc.
 If you're familiar with [Fermi problems](https://en.wikipedia.org/wiki/Fermi_problem), this book
 will cover and expand the technique:
 
-- estimate something: give it a range (rather than [the alternative](http://blog.jpalardy.com/posts/reject-summary-statistics/))
+- estimate something: give it a range (rather than [the alternative](https://blog.jpalardy.com/posts/reject-summary-statistics/))
 - adjust the range so that you're 90% confident it contains the real value -- the book gives you techniques to do that
 - assume a specific distribution (linear, normal, other?)
 - each estimate chains into the next
@@ -250,7 +250,7 @@ _Series: 3 books, complete._
 
 Contrasting the books above, the _Fear Saga_ series is a darker
 type of sci-fi. It has _some_ aspects of the [Three-Body Problem](http://www.amazon.com/dp/0765377063/)
-which I [reviewed previously](http://blog.jpalardy.com/posts/best-books-i-read-2015/#the-three-body-problem).
+which I [reviewed previously](https://blog.jpalardy.com/posts/best-books-i-read-2015/#the-three-body-problem).
 
 Aliens are coming and ... it's complicated. Let me spare you the spoilers.
 The first book is a thriller; there is so much at stake, so much to fear, and so many opportunities to fail.

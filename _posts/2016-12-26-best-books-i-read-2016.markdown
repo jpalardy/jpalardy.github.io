@@ -9,7 +9,7 @@ deserve to be acknowledged. I broke down my recommendations by categories:
 [technical](#technical), [non-fiction](#non-fiction) and [fiction](#fiction).
 There is no particular order.
 
-I have a similar post for [2015](http://blog.jpalardy.com/posts/best-books-i-read-2015/).
+I have a similar post for [2015](https://blog.jpalardy.com/posts/best-books-i-read-2015/).
 
 -------------------------------------------------
 
@@ -22,7 +22,7 @@ I have a similar post for [2015](http://blog.jpalardy.com/posts/best-books-i-rea
 Is this a _technical_ book? It deals with technical topics
 (virtual money, blockchains, cryptography, mining...), but it has cute cartoons
 to help explain some of the concepts. It reminds be of my review of
-[Economix](http://blog.jpalardy.com/posts/best-books-i-read-2015/#economix)
+[Economix](https://blog.jpalardy.com/posts/best-books-i-read-2015/#economix)
 -- edutainment: learning while being entertained, it's the best.
 
 Does Bitcoin have to be this complicated? Can it not be explained simply? I
@@ -184,7 +184,7 @@ story that makes you think, I recommend you give it a try.
 <img class="book-cover" src="{{site.url}}/assets/best-books-2016/B01LW7NVP0.jpg" alt="Death's End" />
 
 This is the last book in the "three-body" series. I read the first two books
-last year and [recommended](http://blog.jpalardy.com/posts/best-books-i-read-2015/#the-three-body-problem)
+last year and [recommended](https://blog.jpalardy.com/posts/best-books-i-read-2015/#the-three-body-problem)
 them. At that time, I hadn't finished the series because this book hadn't been
 translated yet.
 

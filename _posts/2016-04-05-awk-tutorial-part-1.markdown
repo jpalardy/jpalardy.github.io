@@ -4,7 +4,7 @@ title: Awk Tutorial, part 1
 category: posts
 ---
 
-I [already mentioned](http://blog.jpalardy.com/posts/why-learn-awk/) why you
+I [already mentioned](https://blog.jpalardy.com/posts/why-learn-awk/) why you
 should learn AWK.  
 Let me show you how you can start using it today.
 
@@ -221,5 +221,5 @@ Answers are [here]({{site.url}}/assets/awk-tutorials/answers-part1.txt).
 
 ## What's next?
 
-[Part 2](http://blog.jpalardy.com/posts/awk-tutorial-part-2/)
+[Part 2](https://blog.jpalardy.com/posts/awk-tutorial-part-2/)
 

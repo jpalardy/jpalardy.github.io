@@ -8,7 +8,7 @@ Everybody gets caught the first time: `uniq` filters repeated lines -- but only
 if they follow each other. This assumption greatly reduces the memory footprint
 of `uniq` and ... its usefulness.
 
-I [explained previously](http://blog.jpalardy.com/posts/alternative-to-sort-uniq-c/) how awk
+I [explained previously](https://blog.jpalardy.com/posts/alternative-to-sort-uniq-c/) how awk
 could be used to replace the classic `sort | uniq -c` incantation. In short, by
 skipping the `sort`, you can scale the solution to much bigger files.
 

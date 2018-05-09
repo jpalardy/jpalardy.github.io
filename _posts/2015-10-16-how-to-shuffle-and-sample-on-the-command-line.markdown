@@ -101,5 +101,5 @@ Or you might want to get a feel for what's happening in a log file:
 {% endhighlight %}
 
 Depending on your specific situation, it might bring the interesting question
-of [how many things to look at](http://blog.jpalardy.com/posts/statistics-how-many-would-you-check/).
+of [how many things to look at](https://blog.jpalardy.com/posts/statistics-how-many-would-you-check/).
 
