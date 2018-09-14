@@ -4,7 +4,7 @@ title: "Surviving Unfamiliar JavaScript Projects: dependencies"
 category: posts
 ---
 
-The chances to find a JavaScript project will all dependencies correct and
+The chances to find a JavaScript project with all dependencies correct and
 up-to-date is almost zero. For some dependencies, just stepping out for coffee
 _almost_ puts you at risk of falling behind.
 
@@ -14,7 +14,7 @@ of figuring out what packages are outdated and by how much.
 
 # npm outdated
 
-A good first step is built in npm: when you run `npm outdated`, you get an output similar to this:
+A good first step is built-in npm: when you run `npm outdated`, you get an output similar to this:
 
 ![npm outdated output]({{site.url}}/assets/surviving-unfamiliar/npm-outdated.png)
 
@@ -24,7 +24,7 @@ A good first step is built in npm: when you run `npm outdated`, you get an outpu
 - Wanted: the maximum version compatible with the semver in your `package.json`
 - Latest: the most up-to-date, the latest, version in npm
 
-You need to be responsible with when and how you upgrade. I personally enjoy
+You need to be responsible with when and how you upgrade. I enjoy
 the lets-see-what-breaks approach to upgrading... it's often faster and more
 definitive than researching CHANGELOGs and READMEs for clues.
 
@@ -75,7 +75,7 @@ each `require` is present in the `package.json`.
 
 ![depcheck]({{site.url}}/assets/surviving-unfamiliar/depcheck.png)
 
-It's not perfect but it's better than the alternative (hoping everything is
+It's not perfect, but it's better than the alternative (hoping everything is
 ok?). There are ways to configure it to ignore false positives too. Check the
 [README](https://github.com/depcheck/depcheck) for more details.
 
@@ -83,7 +83,7 @@ ok?). There are ways to configure it to ignore false positives too. Check the
 # Searching for packages
 
 Whenever I encounter a package I'm not familiar with, I check the Github's
-README to give me an idea what it's used for.
+README to give me an idea of what it's used for.
 
 For example, what is [cross-env](https://github.com/kentcdodds/cross-env)?
 

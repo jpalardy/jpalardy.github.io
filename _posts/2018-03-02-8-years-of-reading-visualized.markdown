@@ -12,7 +12,7 @@ I've been [keeping track](https://bookpiles.ca/jonathan/books?pile=done) of
 what I read for years. I occasionally pull the data out and try to see
 what insights I can extract out of it. The [data]({{site.url}}/assets/8-years-reading/books.csv)
 consists of the date I finished reading a book. There's one date per
-book, some dates have more than one book.
+book, and some dates have more than one book.
 
 I've tried a bunch of [summary statistics](https://blog.jpalardy.com/posts/reject-summary-statistics/),
 various counts and averages, but it wasn't very enlightening. I

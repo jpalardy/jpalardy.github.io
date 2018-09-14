@@ -146,7 +146,7 @@ This [page](https://www.gnu.org/software/coreutils/manual/html_node/Relative-ite
 this gotcha and possible workarounds.
 
 The subpages of [Date input formats](https://www.gnu.org/software/coreutils/manual/html_node/Date-input-formats.html)
-contain all the details from above, and more... For example, I didn't even try to discuss times, timezones and all their
+contain all the details from above and more... For example, I didn't even try to discuss times, timezones and all their
 terrifying complexity.
 
 
