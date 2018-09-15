@@ -4,7 +4,7 @@ title: "The Best Books I Read in 2017"
 category: posts
 ---
 
-I have read many books in 2017 but it wasn't all good. Some books, however,
+I have read many books in 2017, but it wasn't all good. Some books, however,
 deserve to be acknowledged. I broke down my recommendations by categories:
 [technical](#technical), [non-fiction](#non-fiction) and [fiction](#fiction).
 There is no particular order.
@@ -46,7 +46,7 @@ will cover and expand the technique:
 - each estimate chains into the next
 
 If you simulate the above, you get the [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method).
-It doesn't have to be complicated, you can run this in a spreadsheet. The [book's website](http://www.howtomeasureanything.com/) provides
+It doesn't have to be complicated; you can run this in a spreadsheet. The [book's website](http://www.howtomeasureanything.com/) provides
 spreadsheet templates to get you started.
 
 Don't accept "it can't be measured" from people who haven't read this book.
@@ -85,15 +85,15 @@ I think this book has a place in a modern technical bookshelf.
 There was a lot of buzz when this book came out. It's all justified.
 
 This is a survey of theories, tools, and techniques. It takes so many topics and
-explains them so well -- it would takes months of research to get the content
+explains them so well -- it would take months of research to get the content
 from other sources. Case in point: there's an extensive bibliography for _each chapter_!
 
 Whenever I've had to talk about system design since I've read it, I was
-grateful to have read this book. There is no right answer but you develop a
+grateful to have read this book. There is no right answer, but you develop a
 sense of the trade-offs involved in different solutions. You get a better idea
 of what questions to ask and what to look for.
 
-It also gave me an appreciation for all the ways in which things can go wrong
+It also gave me an appreciation for all the ways that things can go wrong
 with distributed systems. It's a wonder that anything works...
 
 * [amazon](http://www.amazon.com/dp/1449373321/)
@@ -144,7 +144,7 @@ any project with data.
 
 <img class="book-cover" src="{{site.url}}/assets/best-books-2017/1610391845.jpg" alt="The Dictator's Handbook" />
 
-A powerful if depressing book.
+A powerful, if depressing, book.
 
 This was a [CGP grey](https://en.wikipedia.org/wiki/CGP_Grey) recommendation at the end of
 his excellent video series called: [Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs&list=PLqs5ohhass_QPOfhvhIzxas3Vr9k31Vaz).
@@ -189,7 +189,7 @@ problems, without recourse when things go wrong, provide a dystopian view of
 things to come.
 
 Whether statisticians or programmers, it is up to us to push back on misguided
-applications of algorithms, big data and machine learning. If we don't, the
+applications of algorithms, big data, and machine learning. If we don't, the
 coming backlash might be justified.
 
 * [amazon](http://www.amazon.com/dp/0553418815/)
@@ -248,7 +248,7 @@ _Series: 3 books, complete._
 
 <img class="book-cover" src="{{site.url}}/assets/best-books-2017/B00S8FPDQA.jpg" alt="Fear the Sky" />
 
-Contrasting the books above, the _Fear Saga_ series is a darker
+In contrast to the books above, the _Fear Saga_ series is a darker
 type of sci-fi. It has _some_ aspects of the [Three-Body Problem](http://www.amazon.com/dp/0765377063/)
 which I [reviewed previously](https://blog.jpalardy.com/posts/best-books-i-read-2015/#the-three-body-problem).
 

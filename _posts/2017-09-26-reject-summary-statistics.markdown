@@ -30,7 +30,7 @@ But it doesn't have to be the *mean*, it could be:
 
 Summary statistics are extremely [lossy](https://en.wikipedia.org/wiki/Lossy_compression).
 
-They take _all_ the data -- full of nuances, patterns, outliers and special cases -- and
+They take _all_ the data -- full of nuances, patterns, outliers, and special cases -- and
 collapse it down to a single point.
 
 What if the people you know included a basketball player?
@@ -107,7 +107,7 @@ at worst.
 
 Summary statistics _feel_ like information, but they are usually sound bites.
 
-As a society, we need to strive for facts, for understanding and for objective data:
+As a society, we need to strive for facts, for understanding, and for objective data:
 
 * REJECT summary statistics: ask for the data if it's missing
 * refuse conclusions until the data and methodology are produced and reviewed
