@@ -75,7 +75,7 @@ fi
 {% endhighlight %}
 
 * it looks for bash-completion in the usual places
-* it source the first one it finds
+* it sources the first one it finds
 * it removes completions I didn't want
 * it warns you if it couldn't find it -- for example, on a new machine, before you install everything you need
 

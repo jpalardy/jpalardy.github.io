@@ -36,7 +36,7 @@ scroll to slide 15.
 ![using esc-dot]({{site.url}}/assets/last-word/esc-dot.gif)
 
 How did the directory's name just appear? There *is* a keyboard shortcut for that
-and it's *already* configured on your terminal: just type `ESC` followed by the
+and it's *already* configured on your terminal: type `ESC` followed by the
 period (`ESC-.`).
 
 (It also works as `META-.` or `ALT-.`)

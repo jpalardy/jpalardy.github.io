@@ -44,12 +44,11 @@ Here's the `awk` code equivalent to the `sort | uniq -c` above:
 For those not comfortable with `awk`:
 
 * use the whole line ($0) as a key
-* every occurence of $0 get += 1 in a hash (cnts)
+* every occurrence of $0 get += 1 in a hash (cnts)
 * at the END of the file, iterate over every entry in the hash, print the key and its count
 
 I don't bother optimizing my command-line counting unless I know I'm working
-with a big file. Even then, I don't type the above, I just paste it from my
-notes.
+with a big file. Even then, I don't type the above: I paste it from my notes.
 
 For the record: `awk` took only 2 minutes to process that file with 72 million lines.
 

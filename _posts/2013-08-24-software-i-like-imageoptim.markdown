@@ -26,12 +26,12 @@ If you want to start tweaking, there are preferences for that:
 When do I use ImageOptim? All the time. But if you're looking for more specific
 use cases:
 
-- when I take a screenshot and I'm about to email/share it
+- when I take a screenshot, and I'm about to email/share it
 - when I put an image online
 - when I integrate an asset into a webapp
 
 It never hurts to see if I can squeeze out a little more: ImageOptim won't
-modify the image unless it is able to compress it.
+modify the image unless it can compress it.
 
 One warning: ImageOptim modifies files in-place. If you have "master" files, I
 would recommend making copies and working off of those (always a good idea).

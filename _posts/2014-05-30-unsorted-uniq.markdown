@@ -43,6 +43,6 @@ Broken down as:
 
 Or, in English, print the current line if you've never seen it, and mark it seen.
 
-As an added bonus, this command doesn't have to process the whole file, it will
+As a bonus, this command doesn't have to process the whole file; it will
 print the new unique lines as they present themselves.
 

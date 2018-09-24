@@ -17,7 +17,7 @@ master the
 [shortcuts](http://www.bigsmoke.us/readline/shortcuts) to minimize the pain.
 
 While bash doesn't support anonymous functions, it's casual about aliases and
-named functions. It's easy to create a function in the current session and it
+named functions. It's easy to create a function in the current session, and it
 will disappear when you exit the shell. Here's a bash function to solve our
 argument problem:
 

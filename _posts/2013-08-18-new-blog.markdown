@@ -14,10 +14,10 @@ with code formatting, code highlighting and previewing. It's great to be able
 to do it all locally, with a text-editor, and using source control. If I only
 wrote stories, if it were all text, I'm sure it would matter a lot less.
 
-All these little annoyances add up and I hope to get back to blogging on a more
+All these little annoyances add up, and I hope to get back to blogging on a more
 frequent basis. I always have something exciting to talk about, but not always
 the time or willingness to blog about it.
 
-This blog does not have comments and I don't know (yet) if it matters. In any case, you
+This blog does not have comments, but I don't know (yet) if it matters. In any case, you
 can reach me through [the](https://github.com/jpalardy) [usual](https://twitter.com/jpalardy) [channels](mailto:jonathan.palardy@gmail.com).
 

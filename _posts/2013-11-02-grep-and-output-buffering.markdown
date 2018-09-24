@@ -25,7 +25,7 @@ command would either:
 - not output anything (at least for a time), then:
 - output pages in bursts
 
-This is clearly a buffering problem, but where's the problem: `grep` or `cut`?
+Clearly, it is a buffering problem, but where's the problem: `grep` or `cut`?
 How could it be `grep` if my second example worked?
 
 ## Reproducing the problem
@@ -73,7 +73,7 @@ Bonus round:
 ## Why?
 
 The above article linked to the very interesting [buffering in standard streams](http://www.pixelbeat.org/programming/stdio_buffering/).
-Here's how buffering is usually setup:
+Here's how buffering is usually set up:
 
 * STDIN is always buffered.
 * STDERR is never buffered.

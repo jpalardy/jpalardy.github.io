@@ -5,14 +5,14 @@ category: posts
 ---
 
 I write software for myself. I don't try to think too hard what's useful to
-other people; I just write a lot of things and see what I like. Some
+other people; I  write a lot of things and see what I like. Some
 experiments are useless, they seemed like a good idea at the time, but I don't
 end up using them.
 
 That's fine: [let a thousand flowers bloom](http://www.phrases.org.uk/meanings/226950.html).
 
-One of those experiment was [vim slime](https://github.com/jpalardy/vim-slime).
-At the time, it was a quick hack, something neat ... I almost didn't bother, it
+One of those experiments was [vim slime](https://github.com/jpalardy/vim-slime).
+At the time, it was a quick hack, something neat ... I almost didn't bother; it
 seemed "obvious". It ended up being the most popular [blog post](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)
 I ever wrote, and probably the piece of software I wrote that's used by the most people.
 

@@ -4,7 +4,7 @@ title: "grep -f"
 category: posts
 ---
 
-This is the kind of thing you don't need, until you *really* do:
+This is the kind of thing you don't need until you *really* do:
 
 {% highlight text %}
 -f file, --file=file
@@ -20,7 +20,7 @@ You have a file with millions of entries, one-per-line, in a tab-separated
 format. One of the fields (and not necessarily the first one) is the "primary key"
 you are using to identify the field.
 
-You ran a batch job and the logs are telling you about some transient failures.
+You ran a batch job, and the logs are telling you about some transient failures.
 You grep for the failures and accumulate a bunch of "primary keys". You will need
 to rerun the job for those entries.
 {% endhighlight %}
@@ -35,14 +35,14 @@ like this <sup>1</sup>:
 % cat file_with_keys | while read key; do grep $key large_file.tsv; done > subset.tsv
 {% endhighlight %}
 
-This spawns 1 grep per key -- but it's a one-liner. Compare with the following,
+It spawns 1 grep per key -- but it's a one-liner. Compare with the following,
 which accomplishes the same thing with 1 process:
 
 {% highlight bash %}
 % grep -f file_with_keys large_file.tsv > subset.tsv
 {% endhighlight %}
 
-This is much faster.
+It is much faster.
 
 Did I miss anything? How would you tackle this?
 

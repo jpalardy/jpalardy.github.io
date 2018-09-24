@@ -17,7 +17,7 @@ There are many options and none are perfect, let's review our choices:
 
 ## Input Files
 
-The worst-case is what I used: a mix of strings, numbers and booleans without
+The worst-case is what I used: a mix of strings, numbers, and booleans without
 any human-friendly spaces or alignment.
 
 sample.json:

@@ -28,12 +28,12 @@ tad() {
 }
 {% endhighlight %}
 
-This creates a directory under `$HOME/.throw-away`, changes (cd) into it and
+It creates a directory under `$HOME/.throw-away`, changes (cd) into it and
 launches a shell there. When the shell exits, the directory is deleted with all
 its content.
 
 In practice, it means that I type `tad` and I'm in a sandbox. And when I exit
-the shell, the sandbox is gone and I'm back in the original directory from
+the shell, the sandbox is gone, and I'm back in the original directory from
 which I issued the command. This script is the formalization of something I
 used to do manually.
 

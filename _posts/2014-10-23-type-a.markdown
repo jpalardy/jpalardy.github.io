@@ -23,7 +23,7 @@ ls is /Users/jpalardy/local/bin/ls
 ls is /bin/ls
 {% endhighlight %}
 
-Not only does `type -a` give me all the same information, it also tells me
+Not only does `type -a` give me all the same information, but it also tells me
 about aliases and functions. Consider what happens for functions which do
 not have corresponding executables in the PATH:
 
@@ -39,7 +39,7 @@ gril ()
 }
 {% endhighlight %}
 
-It tells me it's a function _and_ it shows me its definition. This has decreased,
-subtantially, the amount of grepping my dotfiles trying to remember how certain
+It tells me it's a function _and_ it shows me its definition. `type -a` has decreased,
+substantially, the amount of grepping my dotfiles trying to remember how certain
 functions work.
 

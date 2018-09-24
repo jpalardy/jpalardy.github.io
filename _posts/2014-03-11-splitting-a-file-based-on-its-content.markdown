@@ -6,7 +6,7 @@ category: posts
 
 My [previous post](https://blog.jpalardy.com/posts/alternative-to-sort-uniq-c/)
 reminded me of a similar problem: how do you split a file based on its content?
-Counting might just be one of the things you want to do with each subset of the
+Counting might be one of the things you want to do with each subset of the
 file.
 
     $ cat sample.data
@@ -41,7 +41,7 @@ For those not comfortable with `awk`:
 * redirect (>) to a filename formed by the concatenation of $1 (the first field) and ".data"
 
 IMPORTANT: redirection is slightly different in awk than on the shell. Like in
-`bash`, > means overwrite and >> means append but in `awk` the file is only
+`bash`, > means overwrite and >> means append, but in `awk` the file is only
 opened once per session (and closed automatically at the end). That's why the
 files will contain all the matching lines and not only the last matched line. ([details](http://www.gnu.org/software/gawk/manual/html_node/Redirection.html))
 
