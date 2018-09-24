@@ -78,12 +78,12 @@ $6 < 1000000 || $6 > 20000000  # or  -- low or high volume
 ! /^2015/                      # not -- not in 2015
 {% endhighlight %}
 
-You can _almost_ create arbitratily complex conditions. You are missing variables...
+You can _almost_ create arbitrarily complex conditions. You are missing variables...
 
 
 ## Built-in Variables
 
-Some variables just "exist", they already contain values and are automatically
+Some variables just "exist"; they already contain values and are automatically
 updated. These variables are easy to recognize because they are named
 in CAPITAL letters. Exception: column variables (starting with a $)
 are also built-in variables.
@@ -118,7 +118,7 @@ $ cat netflix.tsv | awk '/^2015-12/ {count++; print count, $0}'
 {% endhighlight %}
 
 Not having to declare variables is _convenient_, but it's also error-prone. If
-you misspell a variable, there won't be any warning and it might take you a
+you misspell a variable, there won't be any warning, and it might take you a
 while to discover your mistake. You've been warned. **Remember:** this is a
 language that optimizes for one-liners.
 
@@ -193,7 +193,7 @@ $ cat netflix.tsv | awk '/^2016-03-24/ {print} $4 == 97.07 {print}'
 2016-03-24  98.639999  98.849998  97.07  98.360001  10646900  98.360001
 {% endhighlight %}
 
-The same line was printed twice! There are two solutions for this problem:
+The same line was printed twice! There are two solutions to this problem:
 
 * making your conditions mutually exclusive  
   (which *could* be easy, but is often tedious and redundant)
@@ -223,7 +223,7 @@ In review, you can:
 * match a line with any operator
 * use built-in variables, both in conditions or in blocks
 * use your own variables, for all other needs
-* control what happens at the beginning and the end or your script
+* control what happens at the beginning and the end of your script
 * skip lines or exit early
 
 

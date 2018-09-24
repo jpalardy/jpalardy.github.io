@@ -4,7 +4,7 @@ title: Inverse Globbing
 category: posts
 ---
 
-This felt like a command-line blind spot: is it possible to invert a glob?
+It felt like a command-line blind spot: is it possible to invert a glob?
 
 What's the opposite of `rm *.mp3`? How would you delete everything _except_ the
 MP3 files?

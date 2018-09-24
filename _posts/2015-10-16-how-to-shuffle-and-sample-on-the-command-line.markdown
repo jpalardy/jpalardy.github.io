@@ -38,7 +38,7 @@ shuffling.
 
 Sampling is _the selection of a subset of individuals from within a statistical population_ -- [wikipedia](https://en.wikipedia.org/wiki/Sampling_(statistics\)).
 
-You just have to pass the `-n` flag to `shuf`:
+You have to pass the `-n` flag to `shuf`:
 
 {% highlight bash %}
 > seq 100 | shuf -n 5     # pick 5 from 1..100
@@ -87,7 +87,7 @@ picking a representative sample. It's too easy to say "I'll pick the first 10"
 and to miss a problem that only happened later.
 
 For example, you might have a system that generates files in a directory. There
-might be hundreds or thousands of files and you just want to get a feel for
+might be hundreds or thousands of files and you only want to get a feel for
 their content.
 
 {% highlight bash %}

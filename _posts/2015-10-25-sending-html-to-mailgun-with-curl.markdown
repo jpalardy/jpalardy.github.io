@@ -24,7 +24,7 @@ curl -s --user "api:$API-KEY" \
      -F text='how are you?'
 {% endhighlight %}
 
-That works fine, but it's __overly simplified__. Here's what I really need to know:
+That works fine, but it's __overly simplified__. Here's what I need to know:
 
 - how to send HTML
 - how to send multiple lines

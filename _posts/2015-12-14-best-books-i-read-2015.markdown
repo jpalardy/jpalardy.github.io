@@ -19,9 +19,9 @@ There is no particular order.
 
 This book wasn't planned. Last January, I heard about the [MOOC](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about),
 and saw that people were excited about it. I started the class, bought the
-book and I learned *many* things I didn't know ... but I was an ML beginner.
+book, and I learned *many* things I didn't know ... but I was an ML beginner.
 
-Eventually, I took the [Machine Learning MOOC on Coursera](https://www.coursera.org/learn/machine-learning) and it reinforced everything I had learned in Statistical Learning.
+Eventually, I took the [Machine Learning MOOC on Coursera](https://www.coursera.org/learn/machine-learning), and it reinforced everything I had learned in Statistical Learning.
 
 I felt that I had read the book too fast the first time around. When I got back
 to this book, in October, I re-read it cover-to-cover and found that it was now
@@ -79,8 +79,8 @@ stories, and tries to convince that "we don't need a checklist" is a
 
 <img class="book-cover" src="{{site.url}}/assets/best-books-2015/0199678111.jpg" alt="Superintelligence" />
 
-This was a recommendation from [CGP Grey](http://www.hellointernet.fm/podcast/52) and I started out as a
-skeptic. This sounds like Skynet, and I've already watched that movie. (and others worse)
+This was a recommendation from [CGP Grey](http://www.hellointernet.fm/podcast/52), and I started out as a
+skeptic. It sounds like Skynet, and I've already watched that movie. (and others worse)
 
 However, most people in the field believe that we will be able to design a
 machine with human-level intelligence -- the real question is one of timeline:
@@ -118,7 +118,7 @@ presents many concepts in a _very_ approachable way.
 * Austerity or government spending?
 
 The author has done his homework and brings information from an extensive
-bibliography. I just wish more subjects could be covered in this format. This
+bibliography. I wish more subjects could be covered in this format. This
 is [edutainment](https://en.wikipedia.org/wiki/Educational_entertainment) at
 its best.
 
@@ -152,8 +152,8 @@ things were going to work out.
 I kept hearing about Liu Cixin, [China's Arthur C. Clarke](http://www.newyorker.com/books/page-turner/chinas-arthur-c-clarke). It doesn't hurt that the book won the 2015 Hugo award. Science-fiction is often inspired by American culture and descriptions of the book hinted at "something different".
 
 It's hard to talk about the book without revealing spoilers. It's part of a
-trilogy and I read the first two books. Let's just say it's well done,
-unusual, and that I can't wait for the third book to be translated to English.
+trilogy, and I read the first two books. Let's just say it's well done,
+unusual, and that I can't wait for the third book to be translated into English.
 
 * [wikipedia](https://en.wikipedia.org/wiki/The_Three-Body_Problem)
 * [amazon](http://www.amazon.com/dp/0765377063)
@@ -177,8 +177,8 @@ Like any good science fiction, it raises more questions than it answers:
 
 As an introduction, here's a [short video interview](https://www.youtube.com/watch?v=3T1-lE5i98M) with the author.
 
-Mr.Robinson's style is meandering; there is a lot of reflections, descriptions
-and dialogues. To me that's an essential part of what makes his stories rich, deep
+Mr.Robinson's style is meandering; there is a lot of reflections, descriptions,
+and dialogues. To me, that's an essential part of what makes his stories rich, deep
 and ... mournful. Nostalgia is why I keep coming back.
 
 * [wikipedia](https://en.wikipedia.org/wiki/Aurora_(novel\))

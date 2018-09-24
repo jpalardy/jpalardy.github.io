@@ -50,7 +50,7 @@ Let's take it one step at a time:
 
 Alternatively, `awk '{print $2}' netflix.tsv` would have given us the same
 result. For this tutorial, I use `cat` to visually separate the input data from
-the AWK program itself. This also emphasizes that AWK can treat any input and
+the AWK program itself. Using `cat` also emphasizes that AWK can treat any input and
 not just existing files.
 
 * `{print $2}` to print the 2nd column
@@ -69,7 +69,7 @@ output because more isn't always better.
 Let's get this out of the way: always use single-quotes with AWK.
 
 As you've seen above, column names have dollar signs in them ($1, $2, $7...)
-which would normally be substituted by BASH. Single-quotes are how you tell
+which would usually be substituted by BASH. Single-quotes are how you tell
 BASH to keep the content of your strings untouched. Double-quotes won't work,
 and backslash escapes _might_ work but are not worth fighting for.
 
@@ -134,7 +134,7 @@ Date        Open        High        Low         Close       Volume     Adj Close
 # snip -- output has been reformated to align
 {% endhighlight %}
 
-A missing block just prints the whole matching line.
+A missing block prints the whole matching line.
 
 {% highlight bash %}
 awk '$2 > 100'
@@ -151,7 +151,7 @@ itself, also prints the current line.
 
 ## More Printing
 
-You know how to print one column, but what if you need print many?
+You know how to print one column, but what if you need to print many?
 
 {% highlight txt %}
 $ cat netflix.tsv | awk '{print $1, $6, $5}'

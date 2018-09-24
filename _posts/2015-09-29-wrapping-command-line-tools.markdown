@@ -26,7 +26,7 @@ cd() {
 
 The problem is that `cd` calls itself recursively. Maybe there's a way around
 this with clever aliases. Maybe you could call your version `mycd`... but you've
-been typing `cd` for years and you're working against your muscle memory.
+been typing `cd` for years, and you're working against your muscle memory.
 
 Thankfully, there's a workaround for this specific problem:
 
@@ -42,7 +42,7 @@ cd() {
 
 The key part is the `builtin cd` invocation which prevents a recursive loop.
 `builint cd` calls the _real_ `cd` from the shell. The same trick works for
-commands that aren't builtin, for example `command ls` would bypass aliases and
+commands that aren't builtin, for example, `command ls` would bypass aliases and
 functions named `ls` and look for something in the PATH.
 
 From the bash man page:
@@ -70,7 +70,7 @@ From the bash man page:
        not be found, the exit status is 127. Otherwise, the exit sta-
        tus of the command builtin is the exit status of command.
 
-I was playing with docker recently and the documentation said to call
+I was playing with docker recently, and the documentation said to call
 `boot2docker shellinit` to set some environment variables _before_ calling the
 `docker` command. Life is too short for that ...
 

@@ -73,7 +73,7 @@ Date,Volume
 
 The OFS (Output Field Separator) variable controls what goes between each
 field. I don't use it very much; I usually format the output
-explicitly. But it's _sometimes_ useful and it's good to know.
+explicitly. But it's _sometimes_ useful, and it's good to know.
 
 
 ## Passing in Variables
@@ -139,8 +139,8 @@ Date 0
 * volume is a variable that gets created as a dictionary, because we use it as a dictionary -- this was discussed in [part 2](https://blog.jpalardy.com/posts/awk-tutorial-part-2/)
 * at the END, print each year and volume sum
 
-When working with array, this pattern of "accumulation" and "reporting" at the
-END is commonplace. But there are some problems with the output, they highlight
+When working with arrays, this pattern of "accumulation" and "reporting" at the
+END is commonplace. But there are some problems with the output, and they highlight
 interesting points:
 
 * the output isn't sorted, the for-loop makes no guarantee over the order of the keys
