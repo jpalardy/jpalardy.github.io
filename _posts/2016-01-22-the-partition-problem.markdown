@@ -13,7 +13,7 @@ I wanted to make 30-ish-minute groups; what I need for my daily Spanish practice
 
 ![spanish lessons]({{site.url}}/assets/partition-problem/spanish-lessons.png)
 
-This felt like a "solved problem", I just needed to find some online "app" to do this...
+It felt like a "solved problem", I just needed to find some online "app" to do this...
 
 
 ## Research
@@ -200,7 +200,7 @@ the standard deviation.
 
 It would have been best to try to minimize the "sum of squares" (or the
 standard deviation) directly, but the non-linear nature of that problem
-prevented the solver from doing a good job. The solver was lost and I couldn't
+prevented the solver from doing a good job. The solver got lost, and I couldn't
 find a way to guide it with my current Minizinc skills.
 
 
@@ -248,7 +248,7 @@ can come back to question of how many groups would be ideal.
 
 ![durations per number of groups]({{site.url}}/assets/partition-problem/scatter-per-k.png)
 
-To stay under 30m (1800s), I would divide the tracks in 11 groups.
+To stay under 30m (1800s), I would divide the tracks into 11 groups.
 
 ![track breakdown by groups]({{site.url}}/assets/partition-problem/water-flow-11.png)
 

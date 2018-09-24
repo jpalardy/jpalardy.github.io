@@ -6,17 +6,17 @@ category: posts
 
 This is a wrap-up of my AWK tutorial series.  
 You can start with [why learn awk](https://blog.jpalardy.com/posts/why-learn-awk/).  
-Or you can just straight to [part 1](https://blog.jpalardy.com/posts/awk-tutorial-part-1/) of the tutorial.
+Or you can jump straight to [part 1](https://blog.jpalardy.com/posts/awk-tutorial-part-1/) of the tutorial.
 
 If you've read the tutorial, the amount of _magic_ should be down to a minimum.
 
 
 ## Disclaimers
 
-Before you ask: I have a cheatsheet and that's where I keep the recipes that
+Before you ask: I have a cheatsheet, and that's where I keep the recipes that
 follow. I'm just human -- I copy and paste what I need.
 
-I'm not the author of these recipes, I only collected them over time.
+I'm not the author of these recipes; I only collected them over time.
 
 Allow me to skip the `cat FILE |` or `awk 'YOUR SCRIPT' FILE` parts. By now,
 I trust you to figure that out.
@@ -127,7 +127,7 @@ FAST one.
 * how much of a pain will it be to install?
 * will my AWK script work without modifications?
 
-These are all good questions. In all likehood:
+These are all good questions. In all likelihood:
 
 * mawk won't be installed...
 * it will be easy to install (`brew install mawk`, for example)

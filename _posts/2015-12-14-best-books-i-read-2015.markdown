@@ -4,7 +4,7 @@ title: "The Best Books I Read in 2015"
 category: posts
 ---
 
-I have read many books in 2015 but it wasn't all good. Some books, however,
+I have read many books in 2015, but it wasn't all good. Some books, however,
 deserve to be acknowledged. I broke down my recommendations by categories:
 [technical](#technical), [non-fiction](#non-fiction) and [fiction](#fiction).
 There is no particular order.

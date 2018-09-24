@@ -11,7 +11,7 @@ No.
 
 I resisted AWK for a long time. Couldn't I already do everything I needed with
 sed and grep? I felt that anything more complex should be done with a "real"
-language. AWK seemed like yet-another thing to learn, with marginal benefits.
+language. AWK seemed like yet-another-thing to learn, with marginal benefits.
 
 
 ## Why Learn AWK?
@@ -45,7 +45,7 @@ On Linux, BSD, or Mac OS, AWK is already available. It is [required](https://en.
 POSIX-compliant OS.
 
 More importantly, it will be the AWK you know. It has been around for a long
-time and the way it works is stable. Any upgrade would not (could not) break
+time, and the way it works is stable. Any upgrade would not (could not) break
 your scripts -- it's the closest thing to "it just works".
 
 Contrast with BASH or Python ... do you have the right version? Does it have
@@ -61,12 +61,12 @@ When I write a script in AWK, I know 2 things:
 
 You shouldn't write anything complicated in AWK. That's a **feature** -- it
 limits what you're going to attempt with the language. You are not going to
-write a web server in AWK and you know it wouldn't be a good idea.
+write a web server in AWK, and you know it wouldn't be a good idea.
 
 There's something refreshing about knowing that you're not going to import a library
 (let alone a framework), and worry about dependencies.
 
-You're writing an AWK script and you're going to focus on what AWK is good at.
+You're writing an AWK script, and you're going to focus on what AWK is good at.
 
 
 ### Language Features
@@ -138,7 +138,7 @@ you should attempt with AWK.
 
 ### Convenience: automatic variables
 
-Variables are automatically created when first used, you don't need to declare variables.
+Variables are automatically created when first used; you don't need to declare variables.
 
 {% highlight awk %}
 a++

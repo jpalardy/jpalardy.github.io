@@ -4,7 +4,7 @@ title: "The Best Books I Read in 2016"
 category: posts
 ---
 
-I have read many books in 2016 but it wasn't all good. Some books, however,
+I have read many books in 2016, but it wasn't all good. Some books, however,
 deserve to be acknowledged. I broke down my recommendations by categories:
 [technical](#technical), [non-fiction](#non-fiction) and [fiction](#fiction).
 There is no particular order.
@@ -21,7 +21,7 @@ I have a similar post for [2015](https://blog.jpalardy.com/posts/best-books-i-re
 
 Is this a _technical_ book? It deals with technical topics
 (virtual money, blockchains, cryptography, mining...), but it has cute cartoons
-to help explain some of the concepts. It reminds be of my review of
+to help explain some of the concepts. It reminds me of my review of
 [Economix](https://blog.jpalardy.com/posts/best-books-i-read-2015/#economix)
 -- edutainment: learning while being entertained, it's the best.
 
@@ -48,7 +48,7 @@ small inexpensive book, so I decided to buy it and see what all the fuss was abo
 
 Did it change my life? Maybe.
 
-I've never been much of a hoarder, but I have rooms, closets, drawers and boxes
+I've never been much of a hoarder, but I have rooms, closets, drawers, and boxes
 that aren't exactly tidy. When you think about why you're holding on to
 physical things in your life, you probably don't have good reasons.
 [The things you own end up owning you](https://www.youtube.com/watch?v=tPPvkhGZT7Y).
@@ -81,7 +81,7 @@ only way it's _really_ going to work) and you need to KEEP PUSHING, especially
 when you think you're out of ideas. You need to get to the [3rd third](https://www.google.com/search?q=the+third+third+brainstorming).
 
 Whether or not your job requires acts of creation, it inspired me to think
-outside the box and to come up with more ideas than I normally would.
+outside the box and to come up with more ideas than I usually would.
 
 * [amazon](https://www.amazon.com/dp/0071494936/)
 
@@ -123,7 +123,7 @@ climate change, you might wonder what will happen when we run out of oil.
 
 This book skips the politics and deals quantitatively with the problem. How
 much energy is there in a gallon of oil? How much energy do you need to move a
-car? The physics is going to be explained to you and you're going to make these
+car? The physics is going to be explained to you, and you're going to make these
 calculations yourself.
 
 This book paints a sobering picture of the current situation but offers
@@ -188,7 +188,7 @@ last year and [recommended](https://blog.jpalardy.com/posts/best-books-i-read-20
 them. At that time, I hadn't finished the series because this book hadn't been
 translated yet.
 
-I bought the book the day it came out in September and I wasn't disappointed :-)
+I bought the book the day it came out in September, and I wasn't disappointed :-)
 
 * [amazon](https://www.amazon.com/dp/B01LW7NVP0/)
 * [wikipedia](https://en.wikipedia.org/wiki/Death%27s_End)
