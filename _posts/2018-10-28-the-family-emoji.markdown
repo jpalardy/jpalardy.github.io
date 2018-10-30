@@ -11,7 +11,7 @@ I was reading [Impatient JS](http://exploringjs.com/impatient-js/index.html) and
 [ '👨', '‍', '👩', '‍', '👦' ]     // cool: man, woman, and boy emojis...
 {% endhighlight %}
 
-but when I tried it:
+but when my friend [Jordan](https://twitter.com/jzhang729) tried it:
 
 {% highlight javascript %}
 > [...'👪']
