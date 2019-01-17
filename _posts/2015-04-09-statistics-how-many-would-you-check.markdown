@@ -6,7 +6,7 @@ category: posts
 
 [Russian Translation](http://softdroid.net/statistika-mnogo-li-vy-proveryaete), thanks to Vlad.  
 [Ukrainian Translation](http://www.opensourceinitiative.net/edu/jpalardy/), thanks to Sandi.  
-[Estonian Translation](https://www.autonvaraosatpro.fi/blogi/2018/04/23/statistika-kui-palju-peaks-siis-kontrollima/), thanks to Johanne.
+[Estonian Translation](https://www.autonvaraosatpro.fi/blogi/2018/04/23/statistika-kui-palju-peaks-siis-kontrollima/), thanks to Johanne.  
 [Spanish Translation](http://expereb.com/statistics-how-many-would-you-check/), thanks to Laura.
 
 Imagine this situation:
