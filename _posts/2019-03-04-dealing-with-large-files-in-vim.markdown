@@ -4,7 +4,7 @@ title: "Dealing with Large Files in Vim"
 category: posts
 ---
 
-Vim is fast, that's one of its main selling point. In general, it can deal with very large files easily.
+Vim is fast, that's one of its main selling points. In general, it can deal with very large files easily.
 
 But there are ways to ruin your Vim experience, and it's not especially hard:
 - opening LARGE files, with syntax highlighting
