@@ -216,7 +216,9 @@ pre {
     .content .meta iframe {
       padding-left: 5px; }
     .content .meta h3 {
-      border-top: 1px solid #bbb; }
+      border-top: 1px solid #bbb;
+      padding-top: 10px;
+    }
   .content .talk-design .color div {
     float: left;
     margin-right: 10px;
