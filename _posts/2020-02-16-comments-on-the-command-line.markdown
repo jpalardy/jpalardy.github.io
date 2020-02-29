@@ -4,6 +4,8 @@ title: "Comments on the Command-Line"
 category: posts
 ---
 
+[Bulgarian Translation](https://guideslib.com/publications/comments-on-the-command-line/), thanks to Zlatan.
+
 Most shells support comments with the `#` symbol. At first glance, that's
 obvious because shell commands can be turned into shell scripts ... and all
 programming languages have comments.
