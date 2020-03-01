@@ -4,6 +4,8 @@ title: "Git: How to Find Modified Files on a Branch"
 category: posts
 ---
 
+(_Update 2020-03-01: there's a better way to do this, see [below](#addendum)_)
+
 ## Situation
 
 You've been working on a (Git) branch and you need to generate the list of files modified on that branch.
@@ -122,3 +124,52 @@ lib/targets_test.go
 >
 {% endhighlight %}
 
+## Addendum
+
+After I wrote this, I received an email from Nathan who pointed out there's a simpler way to do this.
+
+As per `man git-diff`:
+
+{% highlight text %}
+git diff [<options>] <commit>...<commit> [--] [<path>...]
+This form is to view the changes on the branch containing and up to
+the second <commit>, starting at a common ancestor of both
+<commit>. "git diff A...B" is equivalent to "git diff $(git
+merge-base A B) B". You can omit any one of <commit>, which has the
+same effect as using HEAD instead.
+
+Just in case you are doing something exotic, it should be noted that
+all of the <commit> in the above description, except in the last two
+forms that use ".." notations, can be any <tree>.
+
+For a more complete list of ways to spell <commit>, see "SPECIFYING
+REVISIONS" section in gitrevisions(7). However, "diff" is about
+comparing two endpoints, not ranges, and the range notations
+("<commit>..<commit>" and "<commit>...<commit>") do not mean a range as
+defined in the "SPECIFYING RANGES" section in gitrevisions(7).
+{% endhighlight %}
+
+If your eyes glazed over, the important part is:
+
+    "git diff A...B" is equivalent to "git diff $(git merge-base A B) B".
+
+That looks suspiciously close to what I came up with 🤔  
+At least, I was on the right track...
+
+{% highlight bash %}
+# explicit: git diff --name-only master...HEAD
+> git diff --name-only master...
+Gopkg.lock
+Makefile
+README.md
+attack.go
+internal/cmd/jsonschema/main.go
+lib/metrics.go
+lib/metrics_test.go
+lib/target.schema.json
+lib/targets.go
+lib/targets_test.go
+>
+{% endhighlight %}
+
+Yep, looks good!
