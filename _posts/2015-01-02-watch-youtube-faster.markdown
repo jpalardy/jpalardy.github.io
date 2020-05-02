@@ -4,6 +4,8 @@ title: Watch YouTube Faster
 category: posts
 ---
 
+[Swedish Translation](https://medicinskanyheter.com/eric-karlsson/titta-pa-youtube-snabbare.html), thanks to Eric.
+
 It seems that YouTube supports faster (and slower) playback since mid-2014, on their
 [new HTML5 player](https://www.youtube.com/html5).
 
