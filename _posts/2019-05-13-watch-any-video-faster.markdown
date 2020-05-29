@@ -4,6 +4,8 @@ title: "Watch ANY Video Faster"
 category: posts
 ---
 
+[Azerbaijanian Translation](https://prodocs24.com/articles/watch-any-video-faster/), thanks to Amir.
+
 I posted [Watch YouTube Faster](/posts/watch-youtube-faster/) a few years ago.
 
 My opinion hasn't changed: for _some_ videos, it's WAY better to watch faster.
