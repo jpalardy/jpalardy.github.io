@@ -83,7 +83,7 @@ Also, it's probably not up to date:
 - unused dependencies: not used but found in `package.json`
 - missing dependencies: used but not found in `package.json`
 
-The good news is that you don't have to do this alone, [there are tools to help](/posts/surviving-unfamiliar-javascript-projects-dependencies).
+The good news is that you don't have to do this alone, [there are tools to help](/posts/surviving-unfamiliar-javascript-projects-dependencies/).
 
 
 # Surprises from real package.json
