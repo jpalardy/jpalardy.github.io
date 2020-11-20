@@ -92,7 +92,7 @@ For example, Prettier would not complain about:
 ([read more](https://prettier.io/docs/en/comparison.html))
 
 Yes, you will probably still need [ESLint](https://eslint.org/). You will need to find a config that's compatible with Prettier's rules.
-I use [airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base) with some [tweaks](https://github.com/jpalardy/dotfiles/blob/master/eslintrc).
+I use [airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base) with some [tweaks](https://github.com/jpalardy/dotfiles/blob/056f78f561ebb71193751ef0499f82fa0364e3cf/eslintrc).
 You can also check [Integrating with ESLint](https://prettier.io/docs/en/eslint.html).
 
 

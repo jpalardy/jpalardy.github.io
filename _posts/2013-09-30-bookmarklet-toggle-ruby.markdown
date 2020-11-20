@@ -27,7 +27,7 @@ Why is this useful? If you're practicing your kanji reading, ruby text is the
 answer. You might want to hide it — until you try to read it for yourself. Then,
 you can show it again to check your answer.
 
-The code for this ([toggleRuby.js](https://github.com/jpalardy/bookmarklets/blob/master/src/toggleRuby.js))
+The code for this ([toggleRuby.js](https://github.com/jpalardy/bookmarklets/blob/main/src/toggleRuby.js))
 is in my [bookmarklets](https://github.com/jpalardy/bookmarklets) repository on github.
 
 [rubyCharacters]: http://en.wikipedia.org/wiki/Ruby_character

@@ -152,7 +152,7 @@ terrifying complexity.
 
 ## My `iso8601` Helper
 
-Because I use ISO 8601 dates in a bunch of command-line contexts, I wrote a [helper](https://github.com/jpalardy/dotfiles/blob/master/bin/iso8601).
+Because I use ISO 8601 dates in a bunch of command-line contexts, I wrote a [helper](https://github.com/jpalardy/dotfiles/blob/a25af1bd7a06b0a2bfda978ffa48afcd5d66a9e4/bin/iso8601).
 Dump the script (call it `iso8601`) in your PATH:
 
 {% highlight bash %}

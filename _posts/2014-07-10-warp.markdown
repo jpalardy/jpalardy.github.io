@@ -28,7 +28,7 @@ install that?".
 ![warp demo]({{site.url}}/assets/warp/warp.gif)
 
 Warp is just one of the many "vim pickers" I made; I have others, of
-varying usefulness. They are [part](https://github.com/jpalardy/dotfiles/blob/master/bash/commands/listers.bash)
+varying usefulness. They are [part](https://github.com/jpalardy/dotfiles/blob/bde83a23172d86a9c6ddd73636529a244c5b5ee7/bash/commands/listers.bash)
 of vim dotfiles and involve buying into a lot of my customizations. So, I made an effort
 and picked the warp "logic" apart, cleaned it up a bit, and I am now sharing it with the world.
 

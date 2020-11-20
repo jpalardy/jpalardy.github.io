@@ -57,7 +57,7 @@ You can remove a specific completion manually:
 % complete -r sqlite3
 {% endhighlight %}
 
-or you can integrate it after you [source bash-completion](https://github.com/jpalardy/dotfiles/blob/master/bash/completion/bash.bash): (line 4 and 5)
+or you can integrate it after you [source bash-completion](https://github.com/jpalardy/dotfiles/blob/00645a668d3fd59bd13b57c0d1c656bf23691710/bash/completion/bash.bash): (line 4 and 5)
 
 {% highlight bash linenos %}
 for dir in /usr/local/etc /etc; do

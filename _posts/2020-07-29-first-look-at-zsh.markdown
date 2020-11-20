@@ -54,7 +54,7 @@ Config-wise, here's what I did:
 - I ported, over _MANY_ days, most of the functionality I had built up over the years in my Bash [dotfiles](https://github.com/jpalardy/dotfiles)
 - over the following weeks, I kept an eye for weird (or different) behavior that I might have to tweak
 
-[Here](https://github.com/jpalardy/dotfiles/blob/master/zsh/zshrc) is the final result, if you're curious. All in all, it amounted to a ton of Googling 😄
+[Here](https://github.com/jpalardy/dotfiles/blob/main/zsh/zshrc) is the final result, if you're curious. All in all, it amounted to a ton of Googling 😄
 
 ## My impressions, so far
 

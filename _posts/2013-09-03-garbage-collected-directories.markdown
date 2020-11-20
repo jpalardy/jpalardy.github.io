@@ -15,7 +15,7 @@ install`. You start to play with what you installed and forget about the
 directory you're leaving behind. That clutter will haunt you later.
 
 I created a simple script to clean up after myself, I call it `tad` (__t__hrow-__a__way
-__d__irectory). The [code](https://github.com/jpalardy/dotfiles/blob/master/bash/commands/tad.bash) is on Github, but
+__d__irectory). The [code](https://github.com/jpalardy/dotfiles/blob/00645a668d3fd59bd13b57c0d1c656bf23691710/bash/commands/tad.bash) is on Github, but
 here's a snapshot:
 
 {% highlight bash %}

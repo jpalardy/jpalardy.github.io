@@ -58,5 +58,5 @@ The `pane_synchronized` variable can be used for conditional coloring in the win
 
 Guess which window has synchronized panes ^
 
-Feel free to check [my tmux.conf](https://github.com/jpalardy/dotfiles/blob/master/tmux.conf) and grab the parts you like.
+Feel free to check [my tmux.conf](https://github.com/jpalardy/dotfiles/blob/main/tmux.conf) and grab the parts you like.
 
