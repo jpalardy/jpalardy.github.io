@@ -25,7 +25,7 @@ It seemed so "obvious", nothing worth showing off, and I didn't advertise it.
 People just saw me using it and starting to ask "what is that?" and "can I
 install that?".
 
-![warp demo]({{site.url}}/assets/warp/warp.gif)
+![warp demo](/assets/warp/warp.gif)
 
 Warp is just one of the many "vim pickers" I made; I have others, of
 varying usefulness. They are [part](https://github.com/jpalardy/dotfiles/blob/bde83a23172d86a9c6ddd73636529a244c5b5ee7/bash/commands/listers.bash)

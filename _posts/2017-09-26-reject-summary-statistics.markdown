@@ -46,7 +46,7 @@ What if the people you know included a basketball player?
 
 Yes: `178.6` is bigger than `177.4` ... but it doesn't begin to tell the real story:
 
-![plot of heights]({{site.url}}/assets/reject-summary-statistics/whoah.png)
+![plot of heights](/assets/reject-summary-statistics/whoah.png)
 
 
 ## If you don't look at the data, you don't understand the data...
@@ -54,7 +54,7 @@ Yes: `178.6` is bigger than `177.4` ... but it doesn't begin to tell the real st
 It's almost a cliché, but [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) clearly shows
 the limits of summary statistics:
 
-![Anscombe's quartet]({{site.url}}/assets/reject-summary-statistics/anscombes-quartet.png)
+![Anscombe's quartet](/assets/reject-summary-statistics/anscombes-quartet.png)
 
 Those four data sets have the same:
 
@@ -65,7 +65,7 @@ Those four data sets have the same:
 
 A more recent and striking example is the [datasaurus dozen](http://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html):
 
-![datasaurus data set]({{site.url}}/assets/reject-summary-statistics/datasaurus.gif)
+![datasaurus data set](/assets/reject-summary-statistics/datasaurus.gif)
 
 
 ## A terrible example: "average" request duration
@@ -86,7 +86,7 @@ The truth is that "it's complicated" and the question itself is based on many wr
 
 Here is a real duration graph distribution:
 
-![sample durations distribution]({{site.url}}/assets/reject-summary-statistics/density-durations.png)
+![sample durations distribution](/assets/reject-summary-statistics/density-durations.png)
 
 Details:
 
@@ -94,7 +94,7 @@ Details:
 * yes, this is from a real production system
 * it spans thousands of requests over a 1-hour window
 * durations were cropped <= 250ms
-* the mean duration is 62.4ms (56ms for the cropped data) -- [raw data]({{site.url}}/assets/reject-summary-statistics/duration.csv)
+* the mean duration is 62.4ms (56ms for the cropped data) -- [raw data](/assets/reject-summary-statistics/duration.csv)
 
 The mean duration sits exactly **nowhere** interesting or representative.
 

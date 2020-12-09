@@ -17,7 +17,7 @@ I have similar posts for [2015](https://blog.jpalardy.com/posts/best-books-i-rea
 
 ### How to Measure Anything
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/1118539273.jpg" alt="How to Measure Anything" />
+<img class="book-cover" src="/assets/best-books-2017/1118539273.jpg" alt="How to Measure Anything" />
 
 "Anything can be measured." is how the book begins, the rest of the book
 explains how to go about it.
@@ -57,7 +57,7 @@ Don't accept "it can't be measured" from people who haven't read this book.
 
 ### High Performance Browser Networking
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/1449344763.jpg" alt="High Performance Browser Networking" />
+<img class="book-cover" src="/assets/best-books-2017/1449344763.jpg" alt="High Performance Browser Networking" />
 
 It's easy to take for granted all the technologies required to make web
 development possible. We learn what we need, pick up more over time, but we
@@ -80,7 +80,7 @@ I think this book has a place in a modern technical bookshelf.
 
 ### Designing Data-Intensive Applications
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/1449373321.jpg" alt="Designing Data-Intensive Applications" />
+<img class="book-cover" src="/assets/best-books-2017/1449373321.jpg" alt="Designing Data-Intensive Applications" />
 
 There was a lot of buzz when this book came out. It's all justified.
 
@@ -102,7 +102,7 @@ with distributed systems. It's a wonder that anything works...
 
 ### R for Data Science
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/1491910399.jpg" alt="R for Data Science" />
+<img class="book-cover" src="/assets/best-books-2017/1491910399.jpg" alt="R for Data Science" />
 
 This is the book I wish I had when I started out learning R.
 
@@ -142,7 +142,7 @@ any project with data.
 
 ### The Dictator's Handbook
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/1610391845.jpg" alt="The Dictator's Handbook" />
+<img class="book-cover" src="/assets/best-books-2017/1610391845.jpg" alt="The Dictator's Handbook" />
 
 A powerful, if depressing, book.
 
@@ -171,7 +171,7 @@ can be judged based on _how much_ they can explain simply.
 
 ### Weapons of Math Destruction
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/0553418815.jpg" alt="Weapons of Math Destruction" />
+<img class="book-cover" src="/assets/best-books-2017/0553418815.jpg" alt="Weapons of Math Destruction" />
 
 _Weapons of Math Destruction_ is a sobering critique of the (careless) use of algorithms.
 
@@ -205,7 +205,7 @@ coming backlash might be justified.
 
 _Series: 3 books, complete._
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/B01L082SCI.jpg" alt="We Are Legion" />
+<img class="book-cover" src="/assets/best-books-2017/B01L082SCI.jpg" alt="We Are Legion" />
 
 "We are legion. We are Bob", really? I didn't even judge the book by its cover;
 the uninspiring title was enough for me. But I read the glowing reviews and decided to give it a try.
@@ -225,7 +225,7 @@ complaints, I couldn't put it down until the end.
 
 _Series: 5 books, ongoing._
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/B01MQR08XA.jpg" alt="Expeditionary Force" />
+<img class="book-cover" src="/assets/best-books-2017/B01MQR08XA.jpg" alt="Expeditionary Force" />
 
 This falls under the category of "military sci-fi", a place I hadn't spent a
 lot of time in and wasn't planning on visiting soon. Once again, the reviews pulled me in.
@@ -246,7 +246,7 @@ definitely.
 
 _Series: 3 books, complete._
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2017/B00S8FPDQA.jpg" alt="Fear the Sky" />
+<img class="book-cover" src="/assets/best-books-2017/B00S8FPDQA.jpg" alt="Fear the Sky" />
 
 In contrast to the books above, the _Fear Saga_ series is a darker
 type of sci-fi. It has _some_ aspects of the [Three-Body Problem](http://www.amazon.com/dp/0765377063/)

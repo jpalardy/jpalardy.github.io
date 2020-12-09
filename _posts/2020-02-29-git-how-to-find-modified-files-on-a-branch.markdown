@@ -64,7 +64,7 @@ fc5ca537bf4f01de94b0458729f455289351397e
 
 Let's double-check `git log --graph`:
 
-[![git log --graph confirms commit SHAs]({{site.url}}/assets/branch-modified-files/merge-base.png)]({{site.url}}/assets/branch-modified-files/merge-base.png)
+[![git log --graph confirms commit SHAs](/assets/branch-modified-files/merge-base.png)](/assets/branch-modified-files/merge-base.png)
 (_click to enlarge_)
 
 Looks right: `man git-merge-base` says:

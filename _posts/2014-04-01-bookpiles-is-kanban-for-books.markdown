@@ -16,7 +16,7 @@ Visualization is central to bookpiles, the book covers _are_ the books, and they
 move between "piles". I wanted things I could manipulate, making an
 analogy with the physical world.
 
-[![personal kanban cover]({{site.url}}/assets/bookpiles_kanban/pk_cover.png)](http://www.amazon.com/dp/1453802266/?tag=bookpiles02-20)
+[![personal kanban cover](/assets/bookpiles_kanban/pk_cover.png)](http://www.amazon.com/dp/1453802266/?tag=bookpiles02-20)
 
 _Ceci n'est pas un livre?_
 
@@ -36,7 +36,7 @@ Kanban columns versus piles:
 * done: done
 * pen: stalled
 
-![the book piles]({{site.url}}/assets/bookpiles_kanban/the_piles.png)
+![the book piles](/assets/bookpiles_kanban/the_piles.png)
 
 You hear about books and hold them in "maybe" or even "buy". This is similar to
 the concept of the "wishlist" on Amazon, except to express the level of

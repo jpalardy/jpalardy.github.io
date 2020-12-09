@@ -12,7 +12,7 @@ has helped me catch real problems on many different projects.
 
 There are a lot of Go linters out there:
 
-![Go linters supported by ALE]({{site.url}}/assets/golangci-lint/other-linters.png)
+![Go linters supported by ALE](/assets/golangci-lint/other-linters.png)
 
 (_[source: ALE supported tools](https://github.com/dense-analysis/ale/blob/master/supported-tools.md)_)
 
@@ -56,13 +56,13 @@ I personally like to take it to the next level and run:
 
 which runs _ALL_ the linters. Which linters are run by default?
 
-![Golangci-lint default linters]({{site.url}}/assets/golangci-lint/default-linters.png)
+![Golangci-lint default linters](/assets/golangci-lint/default-linters.png)
 
 (_also [here](https://github.com/golangci/golangci-lint#enabled-by-default-linters)_)
 
 ## It hurts!
 
-<img class="img-right" style="width: 275px" src="{{site.url}}/assets/golangci-lint/chinese-proverb.png" alt="The best time to plant a tree..."/>
+<img class="img-right" style="width: 275px" src="/assets/golangci-lint/chinese-proverb.png" alt="The best time to plant a tree..."/>
 
 When is the best time to run a linter?
 

@@ -27,7 +27,7 @@ Date        Open        High        Low         Close       Volume     Adj Close
 ...
 {% endhighlight %}
 
-Download [the data]({{site.url}}/assets/awk-tutorials/netflix.tsv) if you want to try examples yourself.
+Download [the data](/assets/awk-tutorials/netflix.tsv) if you want to try examples yourself.
 
 ## Printing Columns
 
@@ -217,7 +217,7 @@ Try to:
 * print the 'Date' column and the stock price difference ('Close' - 'Open')
 * print an empty line between each line -- double-space the file
 
-Answers are [here]({{site.url}}/assets/awk-tutorials/answers-part1.txt).
+Answers are [here](/assets/awk-tutorials/answers-part1.txt).
 
 ## What's next?
 

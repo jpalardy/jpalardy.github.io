@@ -17,7 +17,7 @@ I have a similar post for [2015](https://blog.jpalardy.com/posts/best-books-i-re
 
 ### Bitcoin for the Befuddled
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2016/1593275730.jpg" alt="Bitcoin for the Befuddled" />
+<img class="book-cover" src="/assets/best-books-2016/1593275730.jpg" alt="Bitcoin for the Befuddled" />
 
 Is this a _technical_ book? It deals with technical topics
 (virtual money, blockchains, cryptography, mining...), but it has cute cartoons
@@ -39,7 +39,7 @@ focus instead on the ideas that won't change as time passes.
 
 ### The Life-Changing Magic of Tidying Up
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2016/1607747308.jpg" alt="The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing" />
+<img class="book-cover" src="/assets/best-books-2016/1607747308.jpg" alt="The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing" />
 
 I saw it in a bookstore. Then, I stumbled on an
 [article](https://www.nytimes.com/2014/10/23/garden/home-organization-advice-from-marie-kondo.html)
@@ -64,7 +64,7 @@ I wouldn't elevate this to a religion, like some people have ... but it's worth 
 
 ### Think Better
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2016/0071494936.jpg" alt="Think Better: An Innovator's Guide to Productive Thinking" />
+<img class="book-cover" src="/assets/best-books-2016/0071494936.jpg" alt="Think Better: An Innovator's Guide to Productive Thinking" />
 
 A whole book on brainstorming. This book was mentioned in an [interesting article](https://nickbentleygames.wordpress.com/2014/05/12/the-100-10-1-method-for-game-design/) from Nick Bentley.
 
@@ -88,7 +88,7 @@ outside the box and to come up with more ideas than I usually would.
 
 ### Nonviolent Communication
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2016/189200528X.jpg" alt="Nonviolent Communication: A Language of Life" />
+<img class="book-cover" src="/assets/best-books-2016/189200528X.jpg" alt="Nonviolent Communication: A Language of Life" />
 
 Many people and many blog posts have independently recommended this book. And
 yet, I can't say that the idea of the book, nor its title really excited me. I
@@ -111,7 +111,7 @@ of the author discussing NVC (nonviolent communication).
 
 ### Sustainable Energy Without the Hot Air
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2016/0954452933.jpg" alt="Sustainable Energy Without the Hot Air" />
+<img class="book-cover" src="/assets/best-books-2016/0954452933.jpg" alt="Sustainable Energy Without the Hot Air" />
 
 Climate change is real, but maybe a bit abstract. Even if you don't believe in
 climate change, you might wonder what will happen when we run out of oil.
@@ -137,7 +137,7 @@ I found this book on Bret Victor's [Climate Change](http://worrydream.com/Climat
 
 ### Whole Earth Discipline
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2016/0143118285.jpg" alt="Whole Earth Discipline" />
+<img class="book-cover" src="/assets/best-books-2016/0143118285.jpg" alt="Whole Earth Discipline" />
 
 It turns out I was wrong about many things:
 
@@ -162,7 +162,7 @@ I found this book on Bret Victor's [Climate Change](http://worrydream.com/Climat
 
 ### Rainbows End
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2016/B0011T1S4Q.jpg" alt="Rainbows End" />
+<img class="book-cover" src="/assets/best-books-2016/B0011T1S4Q.jpg" alt="Rainbows End" />
 
 I kept hearing about Vernor Vinge. I started with his
 [Zones of Thought series](https://en.wikipedia.org/wiki/Vernor_Vinge#Zones_of_Thought_series),
@@ -181,7 +181,7 @@ story that makes you think, I recommend you give it a try.
 
 ### Death's End
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2016/B01LW7NVP0.jpg" alt="Death's End" />
+<img class="book-cover" src="/assets/best-books-2016/B01LW7NVP0.jpg" alt="Death's End" />
 
 This is the last book in the "three-body" series. I read the first two books
 last year and [recommended](https://blog.jpalardy.com/posts/best-books-i-read-2015/#the-three-body-problem)

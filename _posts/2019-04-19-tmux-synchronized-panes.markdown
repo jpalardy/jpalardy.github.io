@@ -6,7 +6,7 @@ category: posts
 
 tmux can send the text you type to multiple panes:
 
-[![demo of tmux synchronized panes]({{site.url}}/assets/tmux-sync-panes/synchronize-panes.gif)](https://sanctum.geek.nz/arabesque/sync-tmux-panes/)  
+[![demo of tmux synchronized panes](/assets/tmux-sync-panes/synchronize-panes.gif)](https://sanctum.geek.nz/arabesque/sync-tmux-panes/)  
 (_[screenshot source](https://sanctum.geek.nz/arabesque/sync-tmux-panes/)_)
 
 Even though I've used tmux for years, I never realized that it could do that
@@ -54,7 +54,7 @@ setw -g window-status-format         '#{?pane_synchronized,#[bg=red],}#I:#W'
 
 The `pane_synchronized` variable can be used for conditional coloring in the window status. ([inspiration](https://superuser.com/questions/710498/tmux-visual-indication-if-panes-are-synchronized))
 
-![synchronized pane highlighted in red]({{site.url}}/assets/tmux-sync-panes/window-status-red.png)
+![synchronized pane highlighted in red](/assets/tmux-sync-panes/window-status-red.png)
 
 Guess which window has synchronized panes ^
 

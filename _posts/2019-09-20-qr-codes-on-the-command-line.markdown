@@ -6,7 +6,7 @@ category: posts
 
 ## Why QR codes?
 
-<img class="book-cover" src="{{site.url}}/assets/qr-codes/hello-world.png" alt="hello world" />
+<img class="book-cover" src="/assets/qr-codes/hello-world.png" alt="hello world" />
 
 [QR codes](https://en.wikipedia.org/wiki/QR_code) aren't magical, they boil down to:
 
@@ -40,7 +40,7 @@ To generate a QR code, dumping it to `stdout` as [ASCII art](https://en.wikipedi
 > qrencode 'hello world' -t ANSIUTF8 -o -
 {% endhighlight %}
 
-![qrencode example]({{site.url}}/assets/qr-codes/qrencode-example.png)
+![qrencode example](/assets/qr-codes/qrencode-example.png)
 
 but that's a lot to type; put it in your dotfiles as a function:
 

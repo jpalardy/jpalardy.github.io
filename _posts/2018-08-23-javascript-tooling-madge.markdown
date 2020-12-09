@@ -34,7 +34,7 @@ Short version:
 
 Here's what happens when you run Madge on itself:
 
-![madge on madge]({{site.url}}/assets/surviving-unfamiliar/madge-on-madge.svg)
+![madge on madge](/assets/surviving-unfamiliar/madge-on-madge.svg)
 
 (you might need to install [graphviz](https://www.graphviz.org/), follow the [instructions](https://github.com/pahen/madge#graphviz-optional))
 
@@ -48,7 +48,7 @@ node bin/cli.js bin -i madge-on-madge.svg
 
 But what about a bigger project? Here's [immutable.js](https://github.com/facebook/immutable-js/) (click to enlarge):
 
-[![immutable]({{site.url}}/assets/surviving-unfamiliar/immutable.png)]({{site.url}}/assets/surviving-unfamiliar/immutable.png)
+[![immutable](/assets/surviving-unfamiliar/immutable.png)](/assets/surviving-unfamiliar/immutable.png)
 
 {% highlight bash %}
 # HOW TO ^^^
@@ -59,7 +59,7 @@ madge src -i immutable.png   # assumes: `npm install -g madge`
 
 If you want to focus on a part of the graph, you can start at a specific file (Seq.js):
 
-[![part of immutable]({{site.url}}/assets/surviving-unfamiliar/seq.png)]({{site.url}}/assets/surviving-unfamiliar/seq.png)
+[![part of immutable](/assets/surviving-unfamiliar/seq.png)](/assets/surviving-unfamiliar/seq.png)
 
 {% highlight bash %}
 # HOW TO ^^^

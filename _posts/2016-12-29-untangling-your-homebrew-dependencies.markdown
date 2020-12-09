@@ -99,7 +99,7 @@ vim: perl python ruby
 
 Let's look at vim info:
 
-![brew info vim]({{site.url}}/assets/untangling-homebrew-dependencies/brew-info-vim.png)
+![brew info vim](/assets/untangling-homebrew-dependencies/brew-info-vim.png)
 
 There are two sections: "dependencies" and "requirements" ... so, what's the difference?
 
@@ -163,5 +163,5 @@ $ brew graph --installed --highlight-leaves | fdp -Tpng -ograph.png
 $ open graph.png
 {% endhighlight %}
 
-![brew deps as graph w/ highlights]({{site.url}}/assets/untangling-homebrew-dependencies/brew-deps-hl.png)
+![brew deps as graph w/ highlights](/assets/untangling-homebrew-dependencies/brew-deps-hl.png)
 

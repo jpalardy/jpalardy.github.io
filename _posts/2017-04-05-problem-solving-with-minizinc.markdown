@@ -4,7 +4,7 @@ title: "Problem Solving with MiniZinc"
 category: posts
 ---
 
-<a href="https://www.coursera.org/learn/modeling-discrete-optimization"><img style="float: right" src="{{site.url}}/assets/minizinc-and-declarative-programming/modeling-discrete-optimization.png" alt="modeling and discrete optimization course banner" /></a>
+<a href="https://www.coursera.org/learn/modeling-discrete-optimization"><img style="float: right" src="/assets/minizinc-and-declarative-programming/modeling-discrete-optimization.png" alt="modeling and discrete optimization course banner" /></a>
 
 It all started with this banner; a course recommendation on Coursera:
 
@@ -55,7 +55,7 @@ And I'm going to explain why it's a bad idea for **_you_** to solve this problem
 
 Using MiniZinc, I would try this:
 
-![modeling and discrete optimization course banner]({{site.url}}/assets/minizinc-and-declarative-programming/mzn-solution.png)
+![modeling and discrete optimization course banner](/assets/minizinc-and-declarative-programming/mzn-solution.png)
 
 * line 2: the amount, in cents, hardcoded to $0.78
 * line 3: US denominations, in cents
@@ -172,9 +172,9 @@ already familiar with the content.
 
 I recommend the updated courses on Coursera:
 
-<a href="https://www.coursera.org/learn/basic-modeling"><img style="float: left" src="{{site.url}}/assets/minizinc-and-declarative-programming/basic-modeling.png" alt="basic modeling for discrete optimization course banner" /></a>
+<a href="https://www.coursera.org/learn/basic-modeling"><img style="float: left" src="/assets/minizinc-and-declarative-programming/basic-modeling.png" alt="basic modeling for discrete optimization course banner" /></a>
 
-<a href="https://www.coursera.org/learn/advanced-modeling"><img style="float: left" src="{{site.url}}/assets/minizinc-and-declarative-programming/advanced-modeling.png" alt="advanced modeling for discrete optimization course banner" /></a>
+<a href="https://www.coursera.org/learn/advanced-modeling"><img style="float: left" src="/assets/minizinc-and-declarative-programming/advanced-modeling.png" alt="advanced modeling for discrete optimization course banner" /></a>
 
 <br style="clear: both"/>
 

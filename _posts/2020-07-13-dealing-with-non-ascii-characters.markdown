@@ -124,12 +124,12 @@ What is after tilde? `del`, but also _ALL other Unicode characters!_
 
 Why is this useful? Many text editors can highlight based on regular expressions:
 
-![curly quotes highlighted in vim]({{site.url}}/assets/dealing-with-non-ascii/curlies-in-vim.png)  
+![curly quotes highlighted in vim](/assets/dealing-with-non-ascii/curlies-in-vim.png)  
 (this is vim; use `:set hlsearch` to turn this on)
 
 This trick works everywhere regular expressions work:
 
-![curly quotes highlighted in grep]({{site.url}}/assets/dealing-with-non-ascii/curlies-in-grep.png)
+![curly quotes highlighted in grep](/assets/dealing-with-non-ascii/curlies-in-grep.png)
 
 -------------------------------------------------
 

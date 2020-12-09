@@ -238,7 +238,7 @@ Try to:
 * only print every other line (say, even lines)
 * remove empty lines in a file
 
-Answers are [here]({{site.url}}/assets/awk-tutorials/answers-part2.txt).
+Answers are [here](/assets/awk-tutorials/answers-part2.txt).
 
 ## What's next?
 

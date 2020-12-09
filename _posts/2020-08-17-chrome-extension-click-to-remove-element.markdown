@@ -30,19 +30,19 @@ are simple but compelling.
 
 Remove images:
 
-![example removing an annoying gif]({{site.url}}/assets/click-to-remove-element/annoying-gif.jpg)
+![example removing an annoying gif](/assets/click-to-remove-element/annoying-gif.jpg)
 
 Remove navigation:
 
-![example removing an annoying nav]({{site.url}}/assets/click-to-remove-element/annoying-nav.jpg)
+![example removing an annoying nav](/assets/click-to-remove-element/annoying-nav.jpg)
 
 Remove ads:
 
-![example removing an annoying ad]({{site.url}}/assets/click-to-remove-element/annoying-ad.jpg)
+![example removing an annoying ad](/assets/click-to-remove-element/annoying-ad.jpg)
 
 Not shown above, but important, there's a helper popup (browser bottom-right) that shows the HTML path:
 
-![helper popup in action]({{site.url}}/assets/click-to-remove-element/helper-popup.png)
+![helper popup in action](/assets/click-to-remove-element/helper-popup.png)
 
 As indicated, you can traverse to parent/children with `q`/`w`, respectively.
 You can make a "rough selection" and navigate up to the "container parent",

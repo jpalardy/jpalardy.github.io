@@ -72,12 +72,12 @@ confident that it worked for (lower bound) 72.2% of users.
 If we keep checking, and we keep finding successes, we can feel more and more
 certain about "true" success:
 
-![lower bound success over the number of checks]({{site.url}}/assets/lowconf_vs_checks/lowconf_vs_checks.png)
+![lower bound success over the number of checks](/assets/lowconf_vs_checks/lowconf_vs_checks.png)
 
 It takes 73 checks to reach a lower bound of 95% of "true" success (the red line).
 
 ## Analysis
 
-Here is the analysis as a [RMarkdown document]({{site.url}}/assets/lowconf_vs_checks/lowconf.Rmd) and
-the resulting output [html document]({{site.url}}/assets/lowconf_vs_checks/lowconf.html).
+Here is the analysis as a [RMarkdown document](/assets/lowconf_vs_checks/lowconf.Rmd) and
+the resulting output [html document](/assets/lowconf_vs_checks/lowconf.html).
 

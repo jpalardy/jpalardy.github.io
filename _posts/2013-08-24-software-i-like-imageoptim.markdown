@@ -10,7 +10,7 @@ files losslessly.
 
 Here's the 15-second demo:
 
-![ImageOptim demo]({{site.url}}/assets/imageoptim/imageOptim.gif)
+![ImageOptim demo](/assets/imageoptim/imageOptim.gif)
 
 Drag-and-drop to get ≈70% reduction in file size? Yes.
 
@@ -21,7 +21,7 @@ that ImageOptim uses.
 
 If you want to start tweaking, there are preferences for that:
 
-![ImageOptim preferences]({{site.url}}/assets/imageoptim/options.png)
+![ImageOptim preferences](/assets/imageoptim/options.png)
 
 When do I use ImageOptim? All the time. But if you're looking for more specific
 use cases:

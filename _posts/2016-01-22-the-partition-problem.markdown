@@ -11,7 +11,7 @@ It started out with a seemingly simple real-life problem:
 
 I wanted to make 30-ish-minute groups; what I need for my daily Spanish practice.
 
-![spanish lessons]({{site.url}}/assets/partition-problem/spanish-lessons.png)
+![spanish lessons](/assets/partition-problem/spanish-lessons.png)
 
 It felt like a "solved problem", I just needed to find some online "app" to do this...
 
@@ -47,11 +47,11 @@ and how many parts I want. I decided to code it and try a few approaches.
 Here's the [data](https://github.com/jpalardy/partition-problem/blob/master/tracks-58.delim)
 I'm working with and here's what it looks like:
 
-![track duration barchart]({{site.url}}/assets/partition-problem/track-durations-barchart.png)
+![track duration barchart](/assets/partition-problem/track-durations-barchart.png)
 
 where the boxplot of the track durations looks like:
 
-![track duration barchart]({{site.url}}/assets/partition-problem/track-durations-boxplot.png)
+![track duration barchart](/assets/partition-problem/track-durations-boxplot.png)
 
 more details:
 
@@ -92,7 +92,7 @@ might get good results by making groups with the same number of tracks. On
 the other hand, it doesn't even look at the track durations, so it's not using
 all the information available.
 
-![track breakdown by groups]({{site.url}}/assets/partition-problem/count.png)
+![track breakdown by groups](/assets/partition-problem/count.png)
 
         sd: 304.5 -- range: 1040-2035s (17:20-33:55)
 
@@ -113,7 +113,7 @@ start a new group.
 
 Using a cutoff of 1680.5 (total duration divided into 10 groups):
 
-![track breakdown by groups]({{site.url}}/assets/partition-problem/cutoff.png)
+![track breakdown by groups](/assets/partition-problem/cutoff.png)
 
         sd: 406.0 -- range: 148-1672s (2:28-27:52)
 
@@ -153,7 +153,7 @@ a certain number of groups, or a lower standard deviation:
 
 The "best" attempt falls at cutoff is 2000:
 
-![track breakdown by groups]({{site.url}}/assets/partition-problem/cutoff-best.png)
+![track breakdown by groups](/assets/partition-problem/cutoff-best.png)
 
         sd: 145.1 -- range: 1513-2000s (25:13-33:20)
 
@@ -179,7 +179,7 @@ don't have to write the search logic, that's handled by a solver.
 Above, I mentioned that Skiena's algorithm was looking to "minimize the maximum
 sum over all the ranges". I ran that and found:
 
-![track breakdown by groups]({{site.url}}/assets/partition-problem/minizinc-max.png)
+![track breakdown by groups](/assets/partition-problem/minizinc-max.png)
 
         sd: 245.2 -- range: 1040-1892s (17:20-31:32)
 
@@ -187,7 +187,7 @@ It's pushing down on top values until they level out. It's obvious looking at gr
 about the group values below the lowest max. We can immediately do better if we try to minimize `max - min` which
 will push down the max AND pull up the min:
 
-![track breakdown by groups]({{site.url}}/assets/partition-problem/minizinc-diff.png)
+![track breakdown by groups](/assets/partition-problem/minizinc-diff.png)
 
         sd: 132.5 -- range: 1488-1892s (24:48-31:32)
 
@@ -225,7 +225,7 @@ biggest group bypasses the case where I could pick a group smaller than both
 its neighbors. I can code this function, call `optim` in R in [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) ("sann")
 mode to keep repeating the process.
 
-![track breakdown by groups]({{site.url}}/assets/partition-problem/water-flow.png)
+![track breakdown by groups](/assets/partition-problem/water-flow.png)
 
         sd: 120.9 -- range: 1488-1892s (24:48-31:32)
 
@@ -246,11 +246,11 @@ method above.
 Now that we have a workable algorithm to reduce the spread of the groups, we
 can come back to question of how many groups would be ideal.
 
-![durations per number of groups]({{site.url}}/assets/partition-problem/scatter-per-k.png)
+![durations per number of groups](/assets/partition-problem/scatter-per-k.png)
 
 To stay under 30m (1800s), I would divide the tracks into 11 groups.
 
-![track breakdown by groups]({{site.url}}/assets/partition-problem/water-flow-11.png)
+![track breakdown by groups](/assets/partition-problem/water-flow-11.png)
 
         sd: 109.7 -- range: 1348-1740s (22:28-29:00)
 

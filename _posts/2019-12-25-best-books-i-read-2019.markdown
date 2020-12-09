@@ -22,7 +22,7 @@ This is a yearly tradition! You can read my book reviews for
 
 ### The Rust Programming Language
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/1593278284.jpg" alt="The Rust Programming Language" />
+<img class="book-cover" src="/assets/best-books-2019/1593278284.jpg" alt="The Rust Programming Language" />
 
 Last year, I wrote about [Programming Rust](https://blog.jpalardy.com/posts/best-books-i-read-2018/#programming-rust)
 and how I felt about the language. This year, I feel the same but stronger. 😄
@@ -48,7 +48,7 @@ physical book -- I didn't know it was the _same_ book… everything is obvious
 
 ### Kubernetes in Action
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/1617293725.jpg" alt="Kubernetes in Action" />
+<img class="book-cover" src="/assets/best-books-2019/1617293725.jpg" alt="Kubernetes in Action" />
 
 > Did you know that Kubernetes means  
 "complicated" in Greek? \</joke\>
@@ -72,7 +72,7 @@ If you work with Kubernetes and need to untangle it all, this is the book for yo
 
 ### The Linux Programming Interface
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/1593272200.jpg" alt="The Linux Programming Interface" />
+<img class="book-cover" src="/assets/best-books-2019/1593272200.jpg" alt="The Linux Programming Interface" />
 
 This one is a tough one....
 
@@ -100,7 +100,7 @@ and browse the table of contents first.
 
 ### Why We Sleep
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/1501144316.jpg" alt="Why We Sleep" />
+<img class="book-cover" src="/assets/best-books-2019/1501144316.jpg" alt="Why We Sleep" />
 
 We spend almost a ⅓ of our lives sleeping, but science still doesn't have clear
 answers about the purpose of sleep... until now?
@@ -125,7 +125,7 @@ become the author's one-solution to all problems. (Bill Gates echoes the feeling
 
 ### Because Internet
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/0735210934.jpg" alt="Because Internet" />
+<img class="book-cover" src="/assets/best-books-2019/0735210934.jpg" alt="Because Internet" />
 
 Languages evolve and the Internet seems to accelerate the process. It also
 allows linguists to track trends over time and space in a way that wasn't
@@ -150,7 +150,7 @@ you've lived through most of it.
 
 ### Envisioning Information
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/1930824149.jpg" alt="Envisioning Information" />
+<img class="book-cover" src="/assets/best-books-2019/1930824149.jpg" alt="Envisioning Information" />
 
 The author, [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte),
 published a series of beautiful books about information design. This one just
@@ -181,7 +181,7 @@ sometimes with explanations, sometimes for you to contemplate.
 
 ### The Nature of Technology
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/1416544062.jpg" alt="The Nature of Technology" />
+<img class="book-cover" src="/assets/best-books-2019/1416544062.jpg" alt="The Nature of Technology" />
 
 What is technology?
 
@@ -219,7 +219,7 @@ time to get there. Old technologies take a long time to die.
 
 _Series: 4 books, complete._
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/B0771Q2MMN.jpg" alt="Commune" />
+<img class="book-cover" src="/assets/best-books-2019/B0771Q2MMN.jpg" alt="Commune" />
 
 I think the most interesting aspect of zombie books is how society
 disintegrates, almost overnight. What happens afterwards often focuses on
@@ -248,7 +248,7 @@ It's not high art, but it's a fun read.
 
 _Series: 3 books, complete._
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/031624662X.jpg" alt="Ancillary Justice" />
+<img class="book-cover" src="/assets/best-books-2019/031624662X.jpg" alt="Ancillary Justice" />
 
 This book had been on my shortlist for a while; it won the Hugo, Nebula, Locus
 Awards and a bunch more. The Audible reviews, however, were very critical of the
@@ -279,7 +279,7 @@ was ... an appropriate ending.
 
 ### House of Suns
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/B002MVI14M.jpg" alt="House of Suns" />
+<img class="book-cover" src="/assets/best-books-2019/B002MVI14M.jpg" alt="House of Suns" />
 
 I've read most of Alastair Reynolds's books... and picked this one up on a
 whim. I prefer longer series but I had run out of material...
@@ -308,7 +308,7 @@ vouch that everything _eventually_ makes sense.
 
 ### Great North Road
 
-<img class="book-cover" src="{{site.url}}/assets/best-books-2019/B00AVAQVAW.jpg" alt="Great North Road" />
+<img class="book-cover" src="/assets/best-books-2019/B00AVAQVAW.jpg" alt="Great North Road" />
 
 Another book from my "favorite author pile". __Great North Road__ is a
 standalone book: it's a murder investigation, a monster story, a cover-up, and a

@@ -16,7 +16,7 @@ of figuring out what packages are outdated and by how much.
 
 A good first step is built-in npm: when you run `npm outdated`, you get an output similar to this:
 
-![npm outdated output]({{site.url}}/assets/surviving-unfamiliar/npm-outdated.png)
+![npm outdated output](/assets/surviving-unfamiliar/npm-outdated.png)
 
 "Package" is obvious, but let's clarify the others:
 
@@ -36,7 +36,7 @@ If you want to jump to the latest version of everything, let's talk about `ncu`.
 `ncu`, from the [npm-check-updates](https://github.com/tjunnone/npm-check-updates) package, also tries to evaluate your
 `package.json` against the package versions out there:
 
-![ncu output]({{site.url}}/assets/surviving-unfamiliar/ncu.png)
+![ncu output](/assets/surviving-unfamiliar/ncu.png)
 
 The output might be a _little_ easier to parse compared to `npm outdated`. But
 the real value happens if you run `ncu -u`: it will update your `package.json`
@@ -53,7 +53,7 @@ If you're not ready to upgrade, you might still want to check if you're relying 
 with known security problems. [nsp](https://github.com/nodesecurity/nsp) (Node Security Platform) provides
 a tool to audit the packages you depend on:
 
-[![nsp output]({{site.url}}/assets/surviving-unfamiliar/nsp.png)]({{site.url}}/assets/surviving-unfamiliar/nsp.png)
+[![nsp output](/assets/surviving-unfamiliar/nsp.png)](/assets/surviving-unfamiliar/nsp.png)
 (output truncated ^)
 
 As mentioned in the [nsp README](https://github.com/nodesecurity/nsp):
@@ -62,7 +62,7 @@ As mentioned in the [nsp README](https://github.com/nodesecurity/nsp):
 
 As of npm version 6, you can get a similar output to `nsp` with `npm audit`:
 
-[![npm audit output]({{site.url}}/assets/surviving-unfamiliar/npm-audit.png)]({{site.url}}/assets/surviving-unfamiliar/npm-audit.png)
+[![npm audit output](/assets/surviving-unfamiliar/npm-audit.png)](/assets/surviving-unfamiliar/npm-audit.png)
 (output truncated ^)
 
 
@@ -73,7 +73,7 @@ As of npm version 6, you can get a similar output to `nsp` with `npm audit`:
 each dependency, it checks that it is `require`d. Conversely, it checks that
 each `require` is present in the `package.json`.
 
-![depcheck]({{site.url}}/assets/surviving-unfamiliar/depcheck.png)
+![depcheck](/assets/surviving-unfamiliar/depcheck.png)
 
 It's not perfect, but it's better than the alternative (hoping everything is
 ok?). There are ways to configure it to ignore false positives too. Check the
@@ -106,5 +106,5 @@ experience. You don't have to use yarn to enjoy their search engine.
 The number of downloads in the last 30 days gives you an idea about
 how popular different projects are:
 
-![cross-env]({{site.url}}/assets/surviving-unfamiliar/cross-env.png)
+![cross-env](/assets/surviving-unfamiliar/cross-env.png)
 

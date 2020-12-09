@@ -29,7 +29,7 @@ Close
 # snip
 {% endhighlight %}
 
-(source file: [netflix.csv]({{site.url}}/assets/awk-tutorials/netflix.csv))
+(source file: [netflix.csv](/assets/awk-tutorials/netflix.csv))
 
 In reality, the `-F` option takes a regular expression:
 
@@ -206,7 +206,7 @@ Try to:
 * calculate the max closing price, grouped per month
 * calculate the median volume, in 2015 -- you might need [this](https://www.gnu.org/software/gawk/manual/html_node/Array-Sorting-Functions.html#Array-Sorting-Functions)
 
-Answers are [here]({{site.url}}/assets/awk-tutorials/answers-part3.txt).
+Answers are [here](/assets/awk-tutorials/answers-part3.txt).
 
 ## What's next?
 

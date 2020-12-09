@@ -120,7 +120,7 @@ We have tests, we can run them, and we have test coverage: done!
 
 Test coverage is poor, on purpose; to show you how useful Istanbul can be:
 
-![code coverage for example.js]({{site.url}}/assets/mocha-and-istanbul-in-5m/coverage-example-js.png)
+![code coverage for example.js](/assets/mocha-and-istanbul-in-5m/coverage-example-js.png)
 
 In this case, you would need more tests:
 

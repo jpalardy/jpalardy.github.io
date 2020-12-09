@@ -86,7 +86,7 @@ The `<` means send the file 'as text', not as a file. The curl man page itself:
 
 You can see the difference in a netcat capture of both commands:
 
-![at versus lt]({{site.url}}/assets/mailgun-and-curl/at_lt.gif)
+![at versus lt](/assets/mailgun-and-curl/at_lt.gif)
 
 Finally, I packaged this curl command in a script to replace both the
 postfix and the mailx-bsd packages.

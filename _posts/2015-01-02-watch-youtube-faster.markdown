@@ -11,7 +11,7 @@ It seems that YouTube supports faster (and slower) playback since mid-2014, on t
 
 Just click the gear on the bottom-right, go to `Speed` and experiment:
 
-![what/where to click]({{site.url}}/assets/youtube-faster/speed.jpg)
+![what/where to click](/assets/youtube-faster/speed.jpg)
 
 Why is this a good idea? Because I find that watching at 1.5x doesn't affect my
 understanding of the content. Of course, it depends on the video: how

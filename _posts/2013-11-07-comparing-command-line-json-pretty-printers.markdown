@@ -11,7 +11,7 @@ will fix your JSON and make everything right.
 
 There are many options and none are perfect, let's review our choices:
 
-[![JSON tool comparison]({{site.url}}/assets/jsonpp/grid.png)]({{site.url}}/assets/jsonpp/grid.png)
+[![JSON tool comparison](/assets/jsonpp/grid.png)](/assets/jsonpp/grid.png)
 
 (click to enlarge)
 

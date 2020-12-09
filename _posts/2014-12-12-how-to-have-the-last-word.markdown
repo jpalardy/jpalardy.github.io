@@ -15,14 +15,14 @@ Did you type `some_dir` twice? Here's the same task, done in 3 different ways.
 
 ## Worst: doing it manually
 
-![doing it manually]({{site.url}}/assets/last-word/manually.gif)
+![doing it manually](/assets/last-word/manually.gif)
 
 This is the looooong way. I'm typing everything and pretending I'm on a
 typewriter.
 
 ## Better: using the history
 
-![using the history]({{site.url}}/assets/last-word/history.gif)
+![using the history](/assets/last-word/history.gif)
 
 I'm using `!$` (the last word from the previous command) instead of typing it
 out. Better still, I'm using 'magic-space' to do automatic history expansion
@@ -33,7 +33,7 @@ scroll to slide 15.
 
 ## Best: using ESC-.
 
-![using esc-dot]({{site.url}}/assets/last-word/esc-dot.gif)
+![using esc-dot](/assets/last-word/esc-dot.gif)
 
 How did the directory's name just appear? There *is* a keyboard shortcut for that
 and it's *already* configured on your terminal: type `ESC` followed by the

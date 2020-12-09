@@ -7,7 +7,7 @@ category: posts
 When software stops running, it produces an [exit code](https://en.wikipedia.org/wiki/Exit_status). In your shell (bash, zsh...),
 you can show the exit code using the `$?` variable:
 
-![terminal with exit code]({{site.url}}/assets/exit-code-bash/terminal-with-exit-code.png)
+![terminal with exit code](/assets/exit-code-bash/terminal-with-exit-code.png)
 
 {% highlight text %}
 # or, usually, as a one-liner...
@@ -27,7 +27,7 @@ Otherwise, `$?` will be set to the exit code of whatever you ran after.
 
 It doesn't take too much Googling to find solutions to show the exit code after a command exits:
 
-![terminal with loud exit code]({{site.url}}/assets/exit-code-bash/terminal-with-loud-exit-code.png)
+![terminal with loud exit code](/assets/exit-code-bash/terminal-with-loud-exit-code.png)
 
 Here's the code for your `.bashrc`:
 

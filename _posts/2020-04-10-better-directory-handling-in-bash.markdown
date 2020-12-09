@@ -21,7 +21,7 @@ There is a better way: `unix-filename-rubout`. Add this to your `~/.inputrc`:
 
 What does it do?
 
-![moving back and forth between directories]({{site.url}}/assets/directory-handling-in-bash/front-and-back.gif)
+![moving back and forth between directories](/assets/directory-handling-in-bash/front-and-back.gif)
 
 (_TAB forward, ctrl-f backward_)
 

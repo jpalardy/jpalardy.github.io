@@ -17,7 +17,7 @@ shell... I thought it might be time to, at least, do some due diligence on Zsh.
 
 ## It Starts with a Book
 
-<a href="https://www.amazon.com/dp/1590593766/"><img class="book-cover" src="{{site.url}}/assets/first-look-zsh/from-bash-to-z-shell.jpg" alt="book cover of From Bash to Z Shell" /></a>
+<a href="https://www.amazon.com/dp/1590593766/"><img class="book-cover" src="/assets/first-look-zsh/from-bash-to-z-shell.jpg" alt="book cover of From Bash to Z Shell" /></a>
 
 On most systems, you can type `zsh` and get started ... but that doesn't mean
 you're done. Few things will make you feel as incompetent as switching tools

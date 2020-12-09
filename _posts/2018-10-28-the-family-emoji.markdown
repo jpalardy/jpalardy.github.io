@@ -27,7 +27,7 @@ If you already know the answer, the book is clear... When you search for the
 "family emoji" and end up on a [page like this](http://unicode.org/emoji/charts/full-emoji-list.html#family),
 you'll see what's going on:
 
-![two family graphemes]({{site.url}}/assets/emoji-family/two-families.png)
+![two family graphemes](/assets/emoji-family/two-families.png)
 
 There's one codepoint that's already the family emoji. But the same result can be obtained by combining a series of codepoints:
 

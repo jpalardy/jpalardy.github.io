@@ -8,11 +8,11 @@ Let's say you want to improve `cd`:
 
 * after cd, print the current directory
 
-![cd with pwd print]({{site.url}}/assets/wrapping-cl-tools/cd1.png)
+![cd with pwd print](/assets/wrapping-cl-tools/cd1.png)
 
 * given a filename, cd to the directory containing the file
 
-![cd to a file]({{site.url}}/assets/wrapping-cl-tools/cd2.png)
+![cd to a file](/assets/wrapping-cl-tools/cd2.png)
 
 Here's something that won't work:
 

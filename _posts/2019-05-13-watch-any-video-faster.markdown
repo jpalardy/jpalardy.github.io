@@ -20,7 +20,7 @@ What changed is what I use.
 There's a Chrome extension called [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk).
 It's written by the awesome [Ilya Grigorik](https://www.igvita.com/) and the [code is on Github](https://github.com/igrigorik/videospeed).
 
-![videospeed screenshot]({{site.url}}/assets/videospeed/videospeed.png)
+![videospeed screenshot](/assets/videospeed/videospeed.png)
 
 What's best about this is that it works with:
 
