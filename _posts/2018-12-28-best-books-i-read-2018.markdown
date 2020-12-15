@@ -19,7 +19,7 @@ I have similar posts for [2015](https://blog.jpalardy.com/posts/best-books-i-rea
 
 ### Redis in Action
 
-<img class="book-cover" src="/assets/best-books-2018/1617290858.jpg" alt="Redis in Action" />
+<a href="https://www.amazon.com/dp/1617290858/"><img class="book-cover" src="/assets/best-books-2018/1617290858.jpg" alt="Redis in Action" /></a>
 
 I feel that Redis is _misunderstood_. What can it do? What is it for? What about persistence?
 
@@ -44,7 +44,7 @@ The book is available for free online, see below.
 
 ### Programming Rust
 
-<img class="book-cover" src="/assets/best-books-2018/1491927283.jpg" alt="Programming Rust" />
+<a href="https://www.amazon.com/dp/1491927283/"><img class="book-cover" src="/assets/best-books-2018/1491927283.jpg" alt="Programming Rust" /></a>
 
 > A language that doesn't affect the way you think about programming, is not worth knowing.
 
@@ -75,7 +75,7 @@ If you're intrigued ... you might want to go read up what all the fuss is about.
 
 ### Toyota Kata
 
-<img class="book-cover" src="/assets/best-books-2018/0071635238.jpg" alt="Toyota Kata" />
+<a href="https://www.amazon.com/dp/0071635238/"><img class="book-cover" src="/assets/best-books-2018/0071635238.jpg" alt="Toyota Kata" /></a>
 
 I have read many books about Toyota and I always find them interesting. But,
 with so many books about Toyota, what else is there to talk about?
@@ -102,7 +102,7 @@ _what_ they do, it's _how_ they decide what they do.
 
 ### We Have No Idea
 
-<img class="book-cover" src="/assets/best-books-2018/0735211523.jpg" alt="We Have No Idea" />
+<a href="https://www.amazon.com/dp/0735211523/"><img class="book-cover" src="/assets/best-books-2018/0735211523.jpg" alt="We Have No Idea" /></a>
 
 [I](https://www.youtube.com/user/voxdotcom)
 [love](https://www.youtube.com/user/CGPGrey)
@@ -139,7 +139,7 @@ Here's an example of what's covered in the book:
 
 ### Sapiens
 
-<img class="book-cover" src="/assets/best-books-2018/0062316095.jpg" alt="Sapiens" />
+<a href="https://www.amazon.com/dp/0062316095/"><img class="book-cover" src="/assets/best-books-2018/0062316095.jpg" alt="Sapiens" /></a>
 
 **Sapiens** ... the unavoidable? At one point, it was everywhere and it seems like
 everybody was reading the book.
@@ -166,7 +166,7 @@ books did it better!) and misleading (it's not the full story!).
 
 _Series: 3 books, complete._
 
-<img class="book-cover" src="/assets/best-books-2018/B0009I6MC8.jpg" alt="Altered Carbon" />
+<a href="https://www.amazon.com/dp/B0009I6MC8/"><img class="book-cover" src="/assets/best-books-2018/B0009I6MC8.jpg" alt="Altered Carbon" /></a>
 
 When I searched for "recommended science fiction", **Altered Carbon** often made the short list.
 When I heard that it was coming to Netflix, I decided to read it first.
@@ -201,7 +201,7 @@ I don't think it's necessary to read the sequels.
 
 ### 11.22.63
 
-<img class="book-cover" src="/assets/best-books-2018/B0064HJNQK.jpg" alt="11.22.63" />
+<a href="https://www.amazon.com/dp/B0064HJNQK/"><img class="book-cover" src="/assets/best-books-2018/B0064HJNQK.jpg" alt="11.22.63" /></a>
 
 I have a history with Stephen King ... some of the first "serious" books I read were from him.
 Even though I enjoy his writing, it's not a style I automatically reach for.
@@ -224,7 +224,7 @@ rich and full that it makes me forgive.
 
 ### Children of Time
 
-<img class="book-cover" src="/assets/best-books-2018/B06ZXTHNSJ.jpg" alt="Children of Time" />
+<a href="https://www.amazon.com/dp/B06ZXTHNSJ/"><img class="book-cover" src="/assets/best-books-2018/B06ZXTHNSJ.jpg" alt="Children of Time" /></a>
 
 The reviews looked good, but it was just one book. If I didn't like it, it would only be one book.
 But if I liked it, it would still be only one book... (a typical fiction-picking dilemma)
@@ -247,7 +247,7 @@ Also, I found the ending satisfying and that's worth a lot.
 
 ### Ball Lightning
 
-<img class="book-cover" src="/assets/best-books-2018/B07F9ZBBVW.jpg" alt="Ball Lightning" />
+<a href="https://www.amazon.com/dp/B07F9ZBBVW/"><img class="book-cover" src="/assets/best-books-2018/B07F9ZBBVW.jpg" alt="Ball Lightning" /></a>
 
 After [The Three-Body Problem](https://blog.jpalardy.com/posts/best-books-i-read-2015/#the-three-body-problem)
 series, I was willing to give anything Cixin Liu writes a go. This is a
@@ -274,7 +274,7 @@ This one isn't for everybody. I would start with Three-Body and pick this one up
 
 _Series: 4 books, complete._
 
-<img class="book-cover" src="/assets/best-books-2018/B076X98RLL.jpg" alt="All Systems Red" />
+<a href="https://www.amazon.com/dp/B076X98RLL/"><img class="book-cover" src="/assets/best-books-2018/B076X98RLL.jpg" alt="All Systems Red" /></a>
 
 Ah... the Murderbot Diaries. If robots that have sex are "sexbots", robots
 that murder would be "murderbots".
