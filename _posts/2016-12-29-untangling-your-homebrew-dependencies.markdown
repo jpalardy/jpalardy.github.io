@@ -146,7 +146,7 @@ If you feel that the output of `brew deps --installed` is not friendly, you're n
 
 {% highlight bash %}
 $ brew install graphviz
-$ brew graph --installed | dot -Tpng -ograph.png
+$ brew graph --installed | dot -T png -o graph.png
 $ open graph.png
 {% endhighlight %}
 
@@ -159,7 +159,7 @@ both part of GraphViz. The [man page](https://linux.die.net/man/1/fdp) says:
 I would also recommend the new `--highlight-leaves` option to color (in gray) packages that can be uninstalled:
 
 {% highlight bash %}
-$ brew graph --installed --highlight-leaves | fdp -Tpng -ograph.png
+$ brew graph --installed --highlight-leaves | fdp -T png -o graph.png
 $ open graph.png
 {% endhighlight %}
 
