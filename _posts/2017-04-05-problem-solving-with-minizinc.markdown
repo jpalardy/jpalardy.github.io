@@ -164,9 +164,9 @@ been designed by a pro.
 ## How to get started?
 
 MiniZinc has its own
-[website](http://www.minizinc.org/),
-[tutorial](http://www.minizinc.org/tutorial/minizinc-tute.pdf) and
-[documentation](http://www.minizinc.org/doc-lib/doc.html).
+[website](https://www.minizinc.org/),
+[tutorial](https://www.minizinc.org/tutorial/minizinc-tute.pdf) and
+[documentation](https://www.minizinc.org/doc-lib/doc.html).
 But I can't say that I find them to be great resources -- not until you're
 already familiar with the content.
 

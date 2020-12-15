@@ -36,5 +36,5 @@ modify the image unless it can compress it.
 One warning: ImageOptim modifies files in-place. If you have "master" files, I
 would recommend making copies and working off of those (always a good idea).
 
-[imageoptim]: http://imageoptim.com/
+[imageoptim]: https://imageoptim.com/
 

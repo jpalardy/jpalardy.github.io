@@ -4,7 +4,7 @@ title: "What Exec Does in Shell Scripts"
 category: posts
 ---
 
-If you think the [answer](http://man7.org/linux/man-pages/man3/exec.3.html) is:
+If you think the [answer](https://man7.org/linux/man-pages/man3/exec.3.html) is:
 
 > The exec() family of functions replaces the current process image with a new
 > process image.

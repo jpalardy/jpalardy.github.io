@@ -15,8 +15,8 @@ It turns out that there's a syntax for that:
 rm !(*.mp3)
 {% endhighlight %}
 
-if you put `shopt -s extglob` in your .bashrc. There are [no downsides](http://stackoverflow.com/questions/17191622/why-would-i-not-leave-extglob-enabled-in-bash)
-to using that config. Extended globbing allows you to do [other things](http://mywiki.wooledge.org/glob) too.
+if you put `shopt -s extglob` in your .bashrc. There are [no downsides](https://stackoverflow.com/questions/17191622/why-would-i-not-leave-extglob-enabled-in-bash)
+to using that config. Extended globbing allows you to do [other things](https://mywiki.wooledge.org/glob) too.
 
 Without extended globbing, you could try:
 

@@ -5,15 +5,15 @@ category: posts
 ---
 
 I used to run Postfix and have it send my emails through
-[Mailgun](http://www.mailgun.com/), mostly for the reasons explained in
-[The Hostile Email Landscape](http://liminality.xyz/the-hostile-email-landscape/).
+[Mailgun](https://www.mailgun.com/), mostly for the reasons explained in
+[The Hostile Email Landscape](https://liminality.xyz/the-hostile-email-landscape/).
 
 But Mailgun accepts emails from a POST request, so I thought it would be a good
 opportunity to get rid of Postfix on my virtual private server.
 
 ## Mailgun and cURL
 
-On their [main page](http://www.mailgun.com/), Mailgun shows you how to send an email with curl:
+On their [main page](https://www.mailgun.com/), Mailgun shows you how to send an email with curl:
 
 {% highlight bash %}
 curl -s --user "api:$API-KEY" \

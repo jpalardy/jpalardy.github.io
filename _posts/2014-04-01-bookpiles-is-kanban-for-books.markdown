@@ -4,7 +4,7 @@ title: Bookpiles is Kanban for Books
 category: posts
 ---
 
-The [Personal Kanban](http://www.amazon.com/dp/1453802266/?tag=bookpiles02-20) book
+The [Personal Kanban](https://www.amazon.com/dp/1453802266/?tag=bookpiles02-20) book
 came with a feeling of déjà vu: I had already been doing all that with my
 books! When I wrote [bookpiles.ca](https://bookpiles.ca/), a little web
 application to track the books I read, I had no idea I was doing Kanban.
@@ -16,7 +16,7 @@ Visualization is central to bookpiles, the book covers _are_ the books, and they
 move between "piles". I wanted things I could manipulate, making an
 analogy with the physical world.
 
-[![personal kanban cover](/assets/bookpiles_kanban/pk_cover.png)](http://www.amazon.com/dp/1453802266/?tag=bookpiles02-20)
+[![personal kanban cover](/assets/bookpiles_kanban/pk_cover.png)](https://www.amazon.com/dp/1453802266/?tag=bookpiles02-20)
 
 _Ceci n'est pas un livre?_
 

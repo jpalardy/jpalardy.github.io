@@ -9,7 +9,7 @@ other people; I  write a lot of things and see what I like. Some
 experiments are useless, they seemed like a good idea at the time, but I don't
 end up using them.
 
-That's fine: [let a thousand flowers bloom](http://www.phrases.org.uk/meanings/226950.html).
+That's fine: [let a thousand flowers bloom](https://www.phrases.org.uk/meanings/226950.html).
 
 One of those experiments was [vim slime](https://github.com/jpalardy/vim-slime).
 At the time, it was a quick hack, something neat ... I almost didn't bother; it

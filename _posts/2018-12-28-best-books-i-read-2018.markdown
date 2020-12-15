@@ -66,7 +66,7 @@ This is all done automatically, at compile time.
 If you're intrigued ... you might want to go read up what all the fuss is about.
 
 * [amazon](https://www.amazon.com/dp/1491927283/)
-* [website](http://shop.oreilly.com/product/0636920040385.do)
+* [website](https://shop.oreilly.com/product/0636920040385.do)
 
 
 -------------------------------------------------
@@ -134,7 +134,7 @@ Here's an example of what's covered in the book:
 <br>
 
 * [amazon](https://www.amazon.com/dp/0735211523/)
-* [website](http://phdcomics.com/noidea/)
+* [website](https://phdcomics.com/noidea/)
 
 
 ### Sapiens

@@ -92,7 +92,7 @@ My recommendation: use it as a reference, skip the C code until you need it,
 and browse the table of contents first.
 
 - [amazon](https://www.amazon.com/dp/1593272200/)
-- [website](http://man7.org/tlpi/)
+- [website](https://man7.org/tlpi/)
 
 ---
 

@@ -81,7 +81,7 @@ No JSON object could be decoded
 
 ## Discussion: YAJL
 
-[YAJL](http://lloyd.github.io/yajl/) is written in C and can be installed
+[YAJL](https://lloyd.github.io/yajl/) is written in C and can be installed
 with your favorite package manager. The command you want to use is
 `json_reformat`.
 
@@ -117,7 +117,7 @@ lexical error: invalid char in json text.
 
 ## Discussion: jq
 
-[jq](http://stedolan.github.io/jq/) is written in C and can be installed
+[jq](https://stedolan.github.io/jq/) is written in C and can be installed
 with your favorite package manager.
 
 {% highlight javascript %}
@@ -229,7 +229,7 @@ I used to install YAJL but now, since I always install node.js and NPM, I skip i
 Here's what I used to recommend:
 
 * use python if you have nothing else, or if it does what you need
-* otherwise use jq, for pretty printing and for [everything](http://stedolan.github.io/jq/manual/) else it does -- jq is amazing
+* otherwise use jq, for pretty printing and for [everything](https://stedolan.github.io/jq/manual/) else it does -- jq is amazing
 * but use jsontool if you care about key ordering -- for example, if you're reformatting package.json
 
 However, now that I have compiled this grid, I would use jsonlint instead of jsontool. I always

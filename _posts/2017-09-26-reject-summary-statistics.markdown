@@ -63,7 +63,7 @@ Those four data sets have the same:
 * correlation
 * linear regression
 
-A more recent and striking example is the [datasaurus dozen](http://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html):
+A more recent and striking example is the [datasaurus dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html):
 
 ![datasaurus data set](/assets/reject-summary-statistics/datasaurus.gif)
 
@@ -90,7 +90,7 @@ Here is a real duration graph distribution:
 
 Details:
 
-* this is a [density](http://ggplot2.tidyverse.org/reference/geom_density.html) plot, a "smoothed" histogram
+* this is a [density](https://ggplot2.tidyverse.org/reference/geom_density.html) plot, a "smoothed" histogram
 * yes, this is from a real production system
 * it spans thousands of requests over a 1-hour window
 * durations were cropped <= 250ms

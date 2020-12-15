@@ -30,7 +30,7 @@ I don't think the answer is obvious. I had to take some time to think about it.
 ## A detour: average rating
 
 I remembered reading
-[How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html),
+[How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html),
 and I thought I could apply the same logic to this problem.
 
 If you only have one review, and it's positive, is that 100%? Intuitively, we

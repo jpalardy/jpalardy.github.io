@@ -46,13 +46,13 @@ will cover and expand the technique:
 - each estimate chains into the next
 
 If you simulate the above, you get the [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method).
-It doesn't have to be complicated; you can run this in a spreadsheet. The [book's website](http://www.howtomeasureanything.com/) provides
+It doesn't have to be complicated; you can run this in a spreadsheet. The [book's website](https://www.howtomeasureanything.com/) provides
 spreadsheet templates to get you started.
 
 Don't accept "it can't be measured" from people who haven't read this book.
 
-* [amazon](http://www.amazon.com/dp/1118539273/)
-* [website](http://www.howtomeasureanything.com/how-to-measure-anything-third-edition/)
+* [amazon](https://www.amazon.com/dp/1118539273/)
+* [website](https://www.howtomeasureanything.com/how-to-measure-anything-third-edition/)
 
 
 ### High Performance Browser Networking
@@ -74,7 +74,7 @@ It covers _a lot_. Most of it was a review, but I was grateful to
 get it all in one place. The author's style is clear; it was a joy to read.
 I think this book has a place in a modern technical bookshelf.
 
-* [amazon](http://www.amazon.com/dp/1449344763/)
+* [amazon](https://www.amazon.com/dp/1449344763/)
 * [website](https://hpbn.co/)
 
 
@@ -96,7 +96,7 @@ of what questions to ask and what to look for.
 It also gave me an appreciation for all the ways that things can go wrong
 with distributed systems. It's a wonder that anything works...
 
-* [amazon](http://www.amazon.com/dp/1449373321/)
+* [amazon](https://www.amazon.com/dp/1449373321/)
 * [website](https://dataintensive.net/)
 
 
@@ -132,8 +132,8 @@ On top of walking you through the tidyverse, you also get plenty of advices on
 how to organize and analyze data for your "data science" projects -- but really
 any project with data.
 
-* [amazon](http://www.amazon.com/dp/1491910399/)
-* [website](http://r4ds.had.co.nz/)
+* [amazon](https://www.amazon.com/dp/1491910399/)
+* [website](https://r4ds.had.co.nz/)
 
 
 -------------------------------------------------
@@ -164,7 +164,7 @@ politicians do what they do.
 Not everybody agrees with the political theory of the book. But I think theories
 can be judged based on _how much_ they can explain simply.
 
-* [amazon](http://www.amazon.com/dp/1610391845/)
+* [amazon](https://www.amazon.com/dp/1610391845/)
 * [wikipedia](https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook)
 * [website](https://www.hachettebookgroup.com/titles/bruce-bueno-de-mesquita/the-dictators-handbook/9781610390453/)
 
@@ -175,7 +175,7 @@ can be judged based on _how much_ they can explain simply.
 
 _Weapons of Math Destruction_ is a sobering critique of the (careless) use of algorithms.
 
-Earlier this year, I also read [The Master Algorithm](http://www.amazon.com/dp/0465065708/)
+Earlier this year, I also read [The Master Algorithm](https://www.amazon.com/dp/0465065708/)
 which reads more like a love story. Short version: The Master Algorithm didn't
 make this list. I thought it was techno-optimism: a celebration of current and
 coming achievements with a don't-worry-about-it perspective about possible
@@ -192,7 +192,7 @@ Whether statisticians or programmers, it is up to us to push back on misguided
 applications of algorithms, big data, and machine learning. If we don't, the
 coming backlash might be justified.
 
-* [amazon](http://www.amazon.com/dp/0553418815/)
+* [amazon](https://www.amazon.com/dp/0553418815/)
 * [wikipedia](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 * [website](https://weaponsofmathdestructionbook.com/)
 
@@ -210,15 +210,15 @@ _Series: 3 books, complete._
 "We are legion. We are Bob", really? I didn't even judge the book by its cover;
 the uninspiring title was enough for me. But I read the glowing reviews and decided to give it a try.
 
-I loved the beginning: it reminded me of [Old Man's War](http://www.amazon.com/dp/0765348276/);
+I loved the beginning: it reminded me of [Old Man's War](https://www.amazon.com/dp/0765348276/);
 you discover the story, and the rules, at the same time the main character does.
 
 I thought the second and third books weren't as good, maybe even episodic. There
 was too much to keep track of. And the ending wasn't satisfying... But, despite my
 complaints, I couldn't put it down until the end.
 
-* [amazon](http://www.amazon.com/dp/B01L082SCI/)
-* [website](http://dennisetaylor.org/legion/)
+* [amazon](https://www.amazon.com/dp/B01L082SCI/)
+* [website](https://dennisetaylor.org/legion/)
 
 
 ### Expeditionary Force
@@ -249,7 +249,7 @@ _Series: 3 books, complete._
 <a href="https://www.amazon.com/dp/B00S8FPDQA/"><img class="book-cover" src="/assets/best-books-2017/B00S8FPDQA.jpg" alt="Fear the Sky" /></a>
 
 In contrast to the books above, the _Fear Saga_ series is a darker
-type of sci-fi. It has _some_ aspects of the [Three-Body Problem](http://www.amazon.com/dp/0765377063/)
+type of sci-fi. It has _some_ aspects of the [Three-Body Problem](https://www.amazon.com/dp/0765377063/)
 which I [reviewed previously](https://blog.jpalardy.com/posts/best-books-i-read-2015/#the-three-body-problem).
 
 Aliens are coming and ... it's complicated. Let me spare you the spoilers.
@@ -261,7 +261,7 @@ ending because the reviews had warned me in advance.
 
 Not perfect, but pretty good.
 
-* [amazon](http://www.amazon.com/dp/B00S8FPDQA/)
+* [amazon](https://www.amazon.com/dp/B00S8FPDQA/)
 * [website](http://www.thefearsaga.com/)
 
 

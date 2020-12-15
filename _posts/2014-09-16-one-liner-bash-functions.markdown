@@ -13,8 +13,8 @@ $ grep something file
 If you're going to search for different strings, repeatedly, what you really
 want is for "something" to be the last argument. This is true even if you
 master the
-[keyboard](http://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
-[shortcuts](http://www.bigsmoke.us/readline/shortcuts) to minimize the pain.
+[keyboard](https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
+[shortcuts](https://www.bigsmoke.us/readline/shortcuts) to minimize the pain.
 
 While bash doesn't support anonymous functions, it's casual about aliases and
 named functions. It's easy to create a function in the current session, and it
@@ -42,9 +42,9 @@ $ grep_file() { grep "$@" file }
 You're stuck on the next line, and bash is waiting for input ... as if you had
 forgotten to close a string or a parenthesis.
 
-The solution is explained on [this page](http://tldp.org/LDP/abs/html/functions.html):
+The solution is explained on [this page](https://tldp.org/LDP/abs/html/functions.html):
 
-[![one line bash function](/assets/one-liner-bash-functions/semicolon.png)](http://tldp.org/LDP/abs/html/functions.html)
+[![one line bash function](/assets/one-liner-bash-functions/semicolon.png)](https://tldp.org/LDP/abs/html/functions.html)
 
 It's all about that semicolon:
 

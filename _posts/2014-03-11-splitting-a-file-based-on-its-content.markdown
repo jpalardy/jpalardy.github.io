@@ -43,7 +43,7 @@ For those not comfortable with `awk`:
 IMPORTANT: redirection is slightly different in awk than on the shell. Like in
 `bash`, > means overwrite and >> means append, but in `awk` the file is only
 opened once per session (and closed automatically at the end). That's why the
-files will contain all the matching lines and not only the last matched line. ([details](http://www.gnu.org/software/gawk/manual/html_node/Redirection.html))
+files will contain all the matching lines and not only the last matched line. ([details](https://www.gnu.org/software/gawk/manual/html_node/Redirection.html))
 
 Without `awk`, I managed to make this work by extracting each unique line (k
 uniques) and by iterating over the whole file (n lines) to extract each

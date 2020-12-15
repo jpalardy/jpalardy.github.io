@@ -32,7 +32,7 @@ _no good: stopping in the middle of a lesson_
 * it's similar to the [subset sum problem](https://en.wikipedia.org/wiki/Subset_sum_problem)
 * there were MANY almost-but-not-quite problems and algorithms
 
-The closest thing I found was the [linear partition](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK2/NODE45.HTM) from [Skiena's book](http://www.amazon.com/dp/1848000693) though I found the explanation a bit opaque.
+The closest thing I found was the [linear partition](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK2/NODE45.HTM) from [Skiena's book](https://www.amazon.com/dp/1848000693) though I found the explanation a bit opaque.
 He describes the problem as:
 
 > input: a given arrangement S of non-negative numbers and an integer k
@@ -172,7 +172,7 @@ until ... all groups level out.
 Relevant code: [partition.mzn](https://github.com/jpalardy/partition-problem/blob/master/minizinc/partition.mzn)
 
 Although I enjoyed the [Modeling Discrete Optimization](https://www.coursera.org/course/modelingoptimization) class,
-I wasn't sure that I would find a practical use for what I had learned. But [Minizinc](http://www.minizinc.org/)
+I wasn't sure that I would find a practical use for what I had learned. But [Minizinc](https://www.minizinc.org/)
 is designed to solve problems like this one -- it is a language to describe constraints. You
 don't have to write the search logic, that's handled by a solver.
 

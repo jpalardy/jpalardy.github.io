@@ -31,7 +31,7 @@ beginning of the year.
 The [Statistical Learning MOOC](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) is being given again in January 2016. I strongly recommend it.
 
 * no wikipedia link...
-* [amazon](http://www.amazon.com/dp/1461471370)
+* [amazon](https://www.amazon.com/dp/1461471370)
 
 
 -------------------------------------------------
@@ -56,7 +56,7 @@ you will be pleased.
 Does our generation need a [BIG project](https://www.youtube.com/watch?v=g25G1M4EXrQ&feature=youtu.be&t=103)? In that case, let's fix global warming. And let's go to Mars -- let's do both.
 
 * [wikipedia](https://en.wikipedia.org/wiki/The_Case_for_Mars)
-* [amazon](http://www.amazon.com/dp/145160811X)
+* [amazon](https://www.amazon.com/dp/145160811X)
 
 
 ### The Checklist Manifesto
@@ -72,14 +72,14 @@ stories, and tries to convince that "we don't need a checklist" is a
 (demonstratively) false and reckless idea.
 
 * [wikipedia](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)
-* [amazon](http://www.amazon.com/dp/0312430000)
+* [amazon](https://www.amazon.com/dp/0312430000)
 
 
 ### Superintelligence
 
 <a href="https://www.amazon.com/dp/0199678111/"><img class="book-cover" src="/assets/best-books-2015/0199678111.jpg" alt="Superintelligence" /></a>
 
-This was a recommendation from [CGP Grey](http://www.hellointernet.fm/podcast/52), and I started out as a
+This was a recommendation from [CGP Grey](https://www.hellointernet.fm/podcast/52), and I started out as a
 skeptic. It sounds like Skynet, and I've already watched that movie. (and others worse)
 
 However, most people in the field believe that we will be able to design a
@@ -94,7 +94,7 @@ This book says that superintelligence _might_ happen, and covers:
 * different outcomes and scenarios
 * how to control a superintelligence, if possible
 
-The newyorker has an [introductory article](http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom) about it.
+The newyorker has an [introductory article](https://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom) about it.
 
 I went through the whole book thinking that there was a good idea for a
 science-fiction novel every 2-3 pages. But it also made me realize that
@@ -102,7 +102,7 @@ I had always assumed that it was impossible, or not something to worry about.
 I recommend the book, *especially* if you disagree with the premise.
 
 * [wikipedia](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
-* [amazon](http://www.amazon.com/dp/0199678111)
+* [amazon](https://www.amazon.com/dp/0199678111)
 
 
 ### Economix
@@ -123,7 +123,7 @@ is [edutainment](https://en.wikipedia.org/wiki/Educational_entertainment) at
 its best.
 
 * no wikipedia link...
-* [amazon](http://www.amazon.com/dp/0810988399)
+* [amazon](https://www.amazon.com/dp/0810988399)
 
 -------------------------------------------------
 
@@ -137,26 +137,26 @@ Humans have spread to nearby stars, all _without_ [FTL](https://en.wikipedia.org
 many mysteries to explore in this dark [space opera](https://en.wikipedia.org/wiki/Space_opera).
 
 I liked the first book because it touched on many interesting ideas -- one of
-my favorite being the [Fermi paradox](http://waitbutwhy.com/2014/05/fermi-paradox.html).
+my favorite being the [Fermi paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html).
 I kept reading to explore different aspects of this universe, and to see how
 things were going to work out.
 
 * [wikipedia](https://en.wikipedia.org/wiki/Revelation_Space)
-* [amazon](http://www.amazon.com/dp/0441009425)
+* [amazon](https://www.amazon.com/dp/0441009425)
 
 
 ### The Three-Body Problem
 
 <a href="https://www.amazon.com/dp/0765377063/"><img class="book-cover" src="/assets/best-books-2015/0765377063.jpg" alt="The Three-Body Problem" /></a>
 
-I kept hearing about Liu Cixin, [China's Arthur C. Clarke](http://www.newyorker.com/books/page-turner/chinas-arthur-c-clarke). It doesn't hurt that the book won the 2015 Hugo award. Science-fiction is often inspired by American culture and descriptions of the book hinted at "something different".
+I kept hearing about Liu Cixin, [China's Arthur C. Clarke](https://www.newyorker.com/books/page-turner/chinas-arthur-c-clarke). It doesn't hurt that the book won the 2015 Hugo award. Science-fiction is often inspired by American culture and descriptions of the book hinted at "something different".
 
 It's hard to talk about the book without revealing spoilers. It's part of a
 trilogy, and I read the first two books. Let's just say it's well done,
 unusual, and that I can't wait for the third book to be translated into English.
 
 * [wikipedia](https://en.wikipedia.org/wiki/The_Three-Body_Problem)
-* [amazon](http://www.amazon.com/dp/0765377063)
+* [amazon](https://www.amazon.com/dp/0765377063)
 
 
 ### Aurora
@@ -182,7 +182,7 @@ and dialogues. To me, that's an essential part of what makes his stories rich, d
 and ... mournful. Nostalgia is why I keep coming back.
 
 * [wikipedia](https://en.wikipedia.org/wiki/Aurora_(novel\))
-* [amazon](http://www.amazon.com/dp/0316098108)
+* [amazon](https://www.amazon.com/dp/0316098108)
 
 
 ## Closing Thoughts

@@ -70,7 +70,7 @@ When is the best time to run a linter?
 
 The second best time is now.
 
-Douglas Crockford [said it best](http://www.jslint.com/help.html#warning):
+Douglas Crockford [said it best](https://www.jslint.com/help.html#warning):
 
 > JSLint will hurt your feelings.
 

@@ -4,7 +4,7 @@ title: "The Family Emoji"
 category: posts
 ---
 
-I was reading [Impatient JS](http://exploringjs.com/impatient-js/index.html) and came up on a [surprising part](http://exploringjs.com/impatient-js/ch_strings.html#caveat-grapheme-clusters):
+I was reading [Impatient JS](https://exploringjs.com/impatient-js/index.html) and came up on a [surprising part](http://exploringjs.com/impatient-js/ch_strings.html#caveat-grapheme-clusters):
 
 {% highlight javascript %}
 > ...['👨‍👩‍👦']
@@ -24,7 +24,7 @@ What... why?! Is the book wrong?
 # There are 2 "family" emojis...
 
 If you already know the answer, the book is clear... When you search for the
-"family emoji" and end up on a [page like this](http://unicode.org/emoji/charts/full-emoji-list.html#family),
+"family emoji" and end up on a [page like this](https://unicode.org/emoji/charts/full-emoji-list.html#family),
 you'll see what's going on:
 
 ![two family graphemes](/assets/emoji-family/two-families.png)
@@ -82,7 +82,7 @@ I had heard of these things but hadn't fully grasped them until I played with th
 I was trying to figure this out, I found a bunch of good resources:
 
 * Wes Bos has a [tweet with cool examples](https://twitter.com/wesbos/status/769228067780825088?lang=en)
-* unicode.org's [full list of emojis](http://unicode.org/emoji/charts/full-emoji-list.html)
+* unicode.org's [full list of emojis](https://unicode.org/emoji/charts/full-emoji-list.html)
 * Good intro to [code points vs grapheme clusters](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 * More [emoji fun](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/#emoji)
 * Cry a little: [Dark Corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)

@@ -32,7 +32,7 @@ until recently, when I had to count from a file with 72 million lines... I let
 
 The "problem", of course, is sorting. While `sort` performs surprisingly well with files
 having up to millions of lines, you can't escape its property: it must use an
-[n log n](http://en.wikipedia.org/wiki/Sorting_algorithm) algorithm.
+[n log n](https://en.wikipedia.org/wiki/Sorting_algorithm) algorithm.
 
 Here's the `awk` code equivalent to the `sort | uniq -c` above:
 

@@ -4,7 +4,7 @@ title: "The bash-completion Problem"
 category: posts
 ---
 
-The [bash-completion](http://bash-completion.alioth.debian.org/) package adds
+The [bash-completion](https://github.com/scop/bash-completion) package adds
 a bunch of useful features, but it also *limits* what happens when you press `tab`.
 For example, the "text editor" completion excludes files that probably are not text files:
 

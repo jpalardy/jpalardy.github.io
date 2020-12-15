@@ -4,7 +4,7 @@ title: 'Chrome Extension: Click to Remove Element'
 category: posts
 ---
 
-[Spanish Translation](http://expereb.com/extension-de-chrome-haga-clic-para-eliminar-el-elemento/), thanks to Laura.
+[Spanish Translation](https://expereb.com/extension-de-chrome-haga-clic-para-eliminar-el-elemento/), thanks to Laura.
 
 For years, I _customized_ web pages by opening up `Developer Tools`, looking
 for the right DOM elements and deleting them. Classic cases include:

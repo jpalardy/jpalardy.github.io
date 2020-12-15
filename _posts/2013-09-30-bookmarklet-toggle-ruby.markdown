@@ -7,7 +7,7 @@ category: posts
 Ruby characters are characters placed on top of Chinese characters to show
 pronunciation. Wikipedia can explain [ruby characters][rubyCharacters] better than I can.
 
-In practice, it looks like this: <ruby>日本語<rt>にほんご</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです. The Japanese characters above the text are called [furigana](http://en.wikipedia.org/wiki/Furigana).
+In practice, it looks like this: <ruby>日本語<rt>にほんご</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです. The Japanese characters above the text are called [furigana](https://en.wikipedia.org/wiki/Furigana).
 
 What's interesting is what the HTML markup looks like:
 
@@ -30,5 +30,5 @@ you can show it again to check your answer.
 The code for this ([toggleRuby.js](https://github.com/jpalardy/bookmarklets/blob/main/src/toggleRuby.js))
 is in my [bookmarklets](https://github.com/jpalardy/bookmarklets) repository on github.
 
-[rubyCharacters]: http://en.wikipedia.org/wiki/Ruby_character
+[rubyCharacters]: https://en.wikipedia.org/wiki/Ruby_character
 

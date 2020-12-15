@@ -42,5 +42,5 @@ What does it mean to have garbage collection for directories?
 It changes the way you work. I have had this script for quite some time: I use
 it all the time and keep finding new ways to use it. Not having to name the
 directory and not having to clean up _frees_ me -- those things are
-[accidental complexity](http://en.wikipedia.org/wiki/Accidental_complexity).
+[accidental complexity](https://en.wikipedia.org/wiki/Accidental_complexity).
 

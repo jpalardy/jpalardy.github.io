@@ -44,5 +44,5 @@ that is "I'm not going to check your PATH"... Here is `whereis` lying to me:
 /usr/bin/awk
 {% endhighlight %}
 
-I was enlightened by [this answer](http://superuser.com/a/430004) on superuser.com.
+I was enlightened by [this answer](https://superuser.com/a/430004) on superuser.com.
 

@@ -120,7 +120,7 @@ speed up processing.
 ### Use mawk
 
 There are many variants of AWK, and the one you're using is _probably_ GNU AWK.  
-There are others: [mawk](http://invisible-island.net/mawk/) is one of the
+There are others: [mawk](https://invisible-island.net/mawk/) is one of the
 FAST one.
 
 * is mawk already installed?

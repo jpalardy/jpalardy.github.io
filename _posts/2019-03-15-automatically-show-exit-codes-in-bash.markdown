@@ -45,7 +45,7 @@ show_exit_code() {
 }
 {% endhighlight %}
 
-[PROMPT_COMMAND](http://tldp.org/HOWTO/Bash-Prompt-HOWTO/x264.html):
+[PROMPT_COMMAND](https://tldp.org/HOWTO/Bash-Prompt-HOWTO/x264.html):
 
 > Bash provides an environment variable called PROMPT_COMMAND.
 > The contents of this variable are executed as a regular Bash command just before Bash displays a prompt.

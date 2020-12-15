@@ -51,7 +51,7 @@ Where's the output? What's the problem? How do you fix this?
 
 ## Solutions
 
-[How to fix stdio buffering](http://www.perkin.org.uk/posts/how-to-fix-stdio-buffering.html) gave me most of the answer. `grep` has
+[How to fix stdio buffering](https://www.perkin.org.uk/posts/how-to-fix-stdio-buffering.html) gave me most of the answer. `grep` has
 a flag for this:
 
 {% highlight bash %}
@@ -72,7 +72,7 @@ Bonus round:
 
 ## Why?
 
-The above article linked to the very interesting [buffering in standard streams](http://www.pixelbeat.org/programming/stdio_buffering/).
+The above article linked to the very interesting [buffering in standard streams](https://www.pixelbeat.org/programming/stdio_buffering/).
 Here's how buffering is usually set up:
 
 * STDIN is always buffered.

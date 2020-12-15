@@ -88,7 +88,7 @@ updated. These variables are easy to recognize because they are named
 in CAPITAL letters. Exception: column variables (starting with a $)
 are also built-in variables.
 
-There are a [bunch](http://www.math.utah.edu/docs/info/gawk_11.html)
+There are a [bunch](https://www.math.utah.edu/docs/info/gawk_11.html)
 of built-in variables, but you'll mostly use 2:
 
 * NR : the number of records (lines) processed since AWK started

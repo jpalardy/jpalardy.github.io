@@ -89,7 +89,7 @@ awk '{print $2}'
 awk 'print $2'
 {% endhighlight %}
 
-Answer: one works and the other doesn't! ([rimshot](http://instantrimshot.com/))
+Answer: one works and the other doesn't! ([rimshot](https://instantrimshot.com/))
 We'll need to take a step back to explain the difference. In AWK, a program is
 composed of _rules_ which look like:
 
@@ -165,7 +165,7 @@ Date        Volume    Close
 {% endhighlight %}
 
 A comma between print values will insert a space in the output. AWK also has
-`printf` which unleashes infinite [formatting power](http://linux.die.net/man/3/printf):
+`printf` which unleashes infinite [formatting power](https://linux.die.net/man/3/printf):
 
 {% highlight txt %}
 $ cat netflix.tsv | awk '{printf "%s %15s %.1f\n", $1, $6, $5}' | sed 1d

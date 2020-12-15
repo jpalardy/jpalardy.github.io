@@ -142,6 +142,6 @@ Mocha, by default, runs tests from `test/*.js`, that's why we didn't need to spe
 
 I kept things simple and used Node.js's [assert](https://nodejs.org/api/assert.html) library.
 
-When things get complicated, you'll probably need [sinon](http://sinonjs.org/). Here's a good [tutorial](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js).
+When things get complicated, you'll probably need [sinon](https://sinonjs.org/). Here's a good [tutorial](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js).
 
 
