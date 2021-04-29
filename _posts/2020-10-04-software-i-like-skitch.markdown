@@ -4,6 +4,8 @@ title: 'Software I like: Skitch'
 category: posts
 ---
 
+[Spanish Translation](https://expereb.com/software-que-me-gusta-skitch/), thanks to Laura.
+
 ## What is Skitch?
 
 [Skitch](https://evernote.com/products/skitch) is a screenshot-grabbing and
