@@ -4,7 +4,8 @@ title: 'Software I like: Skitch'
 category: posts
 ---
 
-[Spanish Translation](https://expereb.com/software-que-me-gusta-skitch/), thanks to Laura.
+[Spanish Translation](https://expereb.com/software-que-me-gusta-skitch/), thanks to Laura.  
+[Georgian Translation](http://lpacode.com/software-i-like-skitch/), thanks to Ana.
 
 ## What is Skitch?
 
