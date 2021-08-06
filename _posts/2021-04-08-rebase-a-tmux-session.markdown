@@ -3,6 +3,9 @@ layout: post
 title: Rebase a Tmux Session
 category: posts
 ---
+
+[Spanish Translation](http://expereb.com/reajustar-de-una-sesion-de-tmux/), thanks to Laura.
+
 Whatever directory you start a new Tmux session in, that's the directory that
 will be used for each new window you create.
 
