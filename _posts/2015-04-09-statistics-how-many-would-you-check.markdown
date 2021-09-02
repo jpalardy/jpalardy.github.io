@@ -8,7 +8,9 @@ category: posts
 [Ukrainian Translation](http://www.opensourceinitiative.net/edu/jpalardy/), thanks to Sandi.  
 [Estonian Translation](https://www.autonvaraosatpro.fi/blogi/2018/04/23/statistika-kui-palju-peaks-siis-kontrollima/), thanks to Johanne.  
 [Spanish Translation](http://expereb.com/statistics-how-many-would-you-check/), thanks to Laura.  
-[French Translation](http://jandcconsultants.com/statistiques-combien-voudriez-vous-verifier/), thanks to Jean-Etienne.
+[French Translation](http://jandcconsultants.com/statistiques-combien-voudriez-vous-verifier/), thanks to Jean-Etienne.  
+[Urdu Translation](https://mobilemall.pk/blog/statistics-how-many-would-you-check-urdu/), thanks to Samuel.  
+[Sindhi Translation](https://www.coupontoaster.co.uk/blog/statistics-how-many-would-you-check-sindhi/), thanks to Samuel.
 
 Imagine this situation:
 
