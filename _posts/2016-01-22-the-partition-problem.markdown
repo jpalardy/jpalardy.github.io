@@ -4,6 +4,16 @@ title: "The Partition Problem"
 category: posts
 ---
 
+### Update (November 12, 2021):
+
+Apparently, I'm not the only person who has ever stumbled into this problem and
+wondered if there was a better way.
+
+Check out [An Efficient Solution to Linear Partitioning](https://www.werkema.com/2021/11/01/an-efficient-solution-to-linear-partitioning/)
+for another take.
+
+--------------------------------------------------
+
 It started out with a seemingly simple real-life problem:
 
 > Given a playlist of sequential tracks, how do you divide it  
