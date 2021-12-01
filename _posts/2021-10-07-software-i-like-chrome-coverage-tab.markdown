@@ -4,6 +4,8 @@ title: 'Software I like: Chrome Coverage Tab'
 category: posts
 ---
 
+[Azerbaijanian Translation](https://prodocs24.com/articles/chrome-coverage-tab/), thanks to Amir.
+
 While both Chrome and Firefox have great developer tools; I had _almost_ forgotten
 that Chrome has a [Coverage Tab](https://developer.chrome.com/docs/devtools/coverage/) ~ I hadn't needed it in a long time.
 
