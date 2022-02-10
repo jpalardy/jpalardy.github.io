@@ -66,5 +66,5 @@ the book and customizing, that "it's worth it".
 
 In fact, maybe it's worth "skipping" Zsh and going directly to
 [fish](https://fishshell.com/)? That's probably something I'll try soon (and
-report back).
+[report back](https://blog.jpalardy.com/posts/fish-shell-is-awesome/)).
 
