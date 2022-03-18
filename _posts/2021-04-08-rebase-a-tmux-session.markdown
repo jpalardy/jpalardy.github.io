@@ -6,7 +6,8 @@ category: posts
 
 [Spanish Translation](http://expereb.com/reajustar-de-una-sesion-de-tmux/), thanks to Laura.  
 [Georgian Translation](http://lpacode.com/rebase-a-tmux-session/), thanks to Ana.  
-[Bulgarian Translation](https://guideslib.com/publications/rebase-a-tmux-session/), thanks to Zlatan.
+[Bulgarian Translation](https://guideslib.com/publications/rebase-a-tmux-session/), thanks to Zlatan.  
+[French Translation](https://www.ibidemgroup.com/edu/traduccion-frances-ingenieria-software/), thanks to Chema.
 
 Whatever directory you start a new Tmux session in, that's the directory that
 will be used for each new window you create.
