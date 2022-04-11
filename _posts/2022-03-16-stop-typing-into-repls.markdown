@@ -108,7 +108,7 @@ I haven't found a REPL where it wasn't advantageous to "wrap" in vim-slime.
 
 I understand that vim isn't for everybody. The other good news is that vim-slime
 isn't complicated ... most of the work happens when "shelling out". I don't see
-why you favorite text editor couldn't support this type of workflow.
+why your favorite text editor couldn't support this type of workflow.
 
 If you find compelling non-vim alternatives, email me and I'll include them on
 this page for others to find.
