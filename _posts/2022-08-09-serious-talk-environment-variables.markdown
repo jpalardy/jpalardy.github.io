@@ -31,7 +31,7 @@ says:
 
 Correct: reaching for a non-existing environment variable gives you `undefined`.
 
-What happens if `databaseName` is `undefined`? 🤔 That depends what you do with it. If your next line of code look like:
+What happens if `databaseName` is `undefined`? 🤔 That depends what you do with it. If your next line of code looks like:
 
 {% highlight javascript %}
 const connection = await openConnection(databaseName); // and password, and...
@@ -67,7 +67,7 @@ Oh no...
 
 > use parseInt!
 
-Indeed. But my greater point is that you are now "parsing" (it's in the name) a string. There are many way that can go wrong:
+Indeed. But my greater point is that you are now "parsing" (it's in the name) a string. There are many ways that can go wrong:
 
 - not a number! e.g. `"MUFFIN", "eleven", "🐴", "INFINITY!"` ...
 - not an integer! e.g. `3.3, 0.125, ½` ...
@@ -87,7 +87,7 @@ const databaseName = process.env.DATABASE_NAME || "aquarius";
 
 - always a string
 - a reasonable default
-- no obvious validations: you will to take `DATABASE_NAME` as given  
+- no obvious validations: you will take `DATABASE_NAME` as given  
 (even if an empty/blank string?)
 
 The problem is where this code lives... would you expect someone to `grep` your
@@ -137,7 +137,7 @@ and you can hide all that ugly and unexciting code in there.
 
 If you get a `config` object, you can be sure that it contains everything you
 need, that all its values have been validated (no nulls!). You can inject
-`config` to everywhere it's needed ... and remove your guard clauses and
+`config` everywhere it's needed ... and remove your guard clauses and
 special cases.
 
 It also makes mocking easier, no need to write to or modify `process.env` 😬
