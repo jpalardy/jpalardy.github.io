@@ -1,0 +1,86 @@
+---
+layout: post
+title: 'ding: Audio Feedback for Exit Codes'
+category: posts
+---
+Do you babysit long-running applications?
+
+You _could_ display a desktop notification, but it's even nicer (and mouseless) to know how things went without looking.
+
+## My use case
+
+I run `mix test` in another tmux window; it's "offscreen" for all intent and purposes.
+
+I use [entr](https://github.com/eradman/entr) to trigger `mix test`: my tests will run when files change.
+
+{% highlight bash %}
+> git ls-files | entr mix test
+
+# if `git ls-files` is too large, I use a filter
+> git ls-files | rg some-filter | entr mix test
+{% endhighlight %}
+
+I want to know: did the tests pass?
+
+## Ding
+
+{% highlight bash %}
+> ding successful-command             # e.g. ding echo hello
+# plays good sound
+
+> ding UNsuccessful-command           # e.g. ding rm doesnt-exist.txt
+# plays sad sound
+
+> ding
+# plays good sound
+{% endhighlight %}
+
+That last one is more useful than it looks: if you _already_ started something
+and realize it's going to take a while; type `ding` and it will execute when
+the first command finishes.
+
+All together now:
+
+{% highlight bash %}
+> git ls-files | entr ding mix test
+{% endhighlight %}
+
+## Simple Enough
+
+[ding](https://github.com/jpalardy/dotfiles/blob/main/bin/ding) is a simple script:
+
+- it runs your command
+- grabs the exit code
+- plays a sound for success (exit code == 0)
+- plays a different sound for failure (exit code != 0)
+
+Here's the script as of the writing of this post:
+
+{% highlight bash %}
+#!/bin/bash
+
+play_sound() {
+  if ! command -v afplay &>/dev/null; then
+    echo >&2 "ding: cannot play sound!"
+    return
+  fi
+
+  if [ "$1" -eq 0 ]; then
+    afplay "/System/Library/Sounds/Purr.aiff"
+    return
+  fi
+
+  afplay "/System/Library/Sounds/Basso.aiff"
+}
+
+"$@"
+lastexit=$?
+
+play_sound "$lastexit" &
+exit "$lastexit"
+{% endhighlight %}
+
+Both `afplay` and the `.aiff` files assume a macOS environment.
+
+But there's so little logic here, it's easy to adapt to your own needs.
+
