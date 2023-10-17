@@ -147,6 +147,9 @@ pre {
   .content li {
     margin-bottom: 0px;
     line-height: 1.4em; }
+  .content li ul {
+    margin-top: 0.2em;
+  }
   .content blockquote {
     font-style: italic;
     font-size: 14px;
