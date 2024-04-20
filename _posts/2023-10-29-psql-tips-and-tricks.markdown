@@ -135,6 +135,10 @@ temporary tables at the end of a session or a transaction.
 So, your temporary tables will garbage collect themselves when you quit `psql`.
 They also live in a separate schema, so they won't be visible to other users.
 
+## Addendum
+
+I put down [More psql Tips and Tricks](https://blog.jpalardy.com/posts/more-psql-tips-and-tricks/) since this article.
+
 <hr>
 
 [^1]: Especially when things won't be going well...
