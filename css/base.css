@@ -125,7 +125,7 @@ pre {
     margin-top: 0;
     margin-bottom: 1.5em;
     line-height: 1.2em; }
-    .content p code {
+    .content p code, .content li code {
       font-size: 12px;
       background-color: #eeeeee;
       border: 1px solid #777777;
