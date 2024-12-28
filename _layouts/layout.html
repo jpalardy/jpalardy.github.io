@@ -13,7 +13,8 @@
 
   <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
 
-  <link rel="stylesheet" href="/css/fontawesome.min.css" type="text/css" media="screen, projection" />
+  <!--<link rel="stylesheet" href="/css/fontawesome.min.css" type="text/css" media="screen, projection" />-->
+  <link rel="stylesheet" href="/css/all.min.css" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="/css/base.css" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="/css/pygments.css" type="text/css" />
   <link media="only screen and (max-device-width: 480px)" href="/css/mobile.css" type="text/css" rel="stylesheet" />
@@ -38,19 +39,19 @@
     <section class="meta">
       <table>
         <tr>
-          <td><a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="icon icon-github"></i></a></td>
+          <td><a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="fa-brands fa-github"></i></a></td>
           <td><a href="https://github.com/{{ site.github_username }}" target="_blank"> GitHub</a></td>
         </tr>
         <tr>
-          <td><a href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><i class="icon icon-twitter"></i></a></td>
-          <td><a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a></td>
+          <td><a href="https://bsky.app/profile/{{ site.bluesky_username }}" target="_blank"><i class="fa-brands fa-bluesky"></i></a></td>
+          <td><a href="https://bsky.app/profile/{{ site.bluesky_username }}" target="_blank">Bluesky</a></td>
         </tr>
         <tr>
-          <td><a href="mailto:{{ site.email }}" target="_blank"><i class="icon icon-envelope"></i></a></td>
+          <td><a href="mailto:{{ site.email }}" target="_blank"><i class="fa-solid fa-envelope"></i></a></td>
           <td><a href="mailto:{{ site.email }}" target="_blank">Email</a></td>
         </tr>
         <tr>
-          <td><a href="/atom.xml"><i class="icon icon-rss"></i></a></td>
+          <td><a href="/atom.xml"><i class="fa-solid fa-square-rss"></i></a></td>
           <td><a href="/atom.xml">RSS</a></td>
         </tr>
       </table>
