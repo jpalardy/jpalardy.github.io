@@ -4,6 +4,9 @@ title: Using recon_trace with Elixir
 category: posts
 date: 2024-04-01 15:50 -0500
 ---
+
+(**2025-02-16 update**: [How to get Elixir logging with recon_trace](/posts/how-to-get-elixir-logging-with-recon_trace/))
+
 This year, I finally got around to learn [recon_trace](https://ferd.github.io/recon/recon_trace.html).
 
 With this post, I intend to make your journey smoother and faster than mine.
@@ -157,4 +160,5 @@ Here are some resources to keep going:
     - `'_'` in Erlang is the same as `:_` in Elixir
 - the [code itself](https://github.com/ferd/recon/blob/master/src/recon_trace.erl)
   - the ultimate truth
+- follow up: [How to get Elixir logging with recon_trace](/posts/how-to-get-elixir-logging-with-recon_trace/)
 
